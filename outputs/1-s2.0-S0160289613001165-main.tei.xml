@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The role of intelligence for performance in the prototypical expertise domain of chess</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2013-08-27">27 August 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Roland</forename><forename type="middle">H</forename><surname>Grabner</surname></persName>
+							<email>grabner@psych.uni-goettingen.de.</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Educational Psychology</orgName>
+								<orgName type="department" key="dep2">Institute of Psychology</orgName>
+								<orgName type="institution">Georg-August-University of Göttingen</orgName>
+								<address>
+									<addrLine>Waldweg 26</addrLine>
+									<postCode>D-37073</postCode>
+									<settlement>Göttingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The role of intelligence for performance in the prototypical expertise domain of chess</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-08-27">27 August 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B22E34D23B70A9F04BB84B2168782AAC</idno>
+					<idno type="DOI">10.1016/j.intell.2013.07.023</idno>
+					<note type="submission">Received 21 May 2013 Received in revised form 20 June 2013 Accepted 27 July 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T11:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Expertise Chess ELO Expert-novice paradigm Playing strength</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Prominent expertise researchers have repeatedly emphasized that individual differences in general cognitive abilities, in particular intelligence, do not play any role for the attained level of expertise in a given domain. This strong claim is opposed with the current body of evidence on the relevance of intelligence for expert performance in the prototypical expertise domain of chess. Although the findings are not unequivocal, presumably due to methodological aspects, several studies employing psychometric tests of intelligence have revealed that expert chess players display significantly higher intelligence than controls and that their playing strength is related to their intelligence level. In addition, by using the extended expert-novice paradigm (comparing experts with novices of different intelligence levels) it has been found that both, expertise and intelligence impact on the performance in expertise-related tasks. These studies suggest that expert chess play does not stand in isolation from intelligence and could stimulate interdisciplinary research on the role of general cognitive abilities in expertise development.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Individual differences in cognitive performance are the result of the interplay between an individual's cognitive potential and the exploitation of learning opportunities provided by the environment. The individual's cognitive potential is typically measured by means of psychometric intelligence tests, which have been developed and continuously improved since the beginning of the 20th century <ref type="bibr" target="#b43">(Nisbett et al., 2012)</ref>. The high predictive validity for later educational and (though to a lower degree) vocational success contributed to a meanwhile broad application of such tests (e.g., <ref type="bibr" target="#b52">Schmidt &amp; Hunter, 1998)</ref>. More intelligent individuals are expected to be better able to exploit learning opportunities and to display a higher probability to succeed in a cognitive domain of interest.</p><p>The importance of intelligence as predictor of cognitive achievement, however, has been heavily questioned by expertise researchers <ref type="bibr" target="#b15">(Ericsson, 2005;</ref><ref type="bibr" target="#b17">Ericsson, Krampe, &amp; Tesch-Römer, 1993;</ref><ref type="bibr" target="#b18">Ericsson &amp; Lehmann, 1996;</ref><ref type="bibr" target="#b19">Ericsson, Nandagopal, &amp; Roring, 2005;</ref><ref type="bibr" target="#b20">Ericsson, Roring, &amp; Nandagopal, 2007;</ref><ref type="bibr" target="#b22">Ericsson &amp; Ward, 2007)</ref>. The principal aim of expertise research is "to understand and account for what distinguishes outstanding individuals in a domain from less outstanding individuals, as well as from people in general" <ref type="bibr">(Ericsson &amp; Smith, 1991, p. 2)</ref>. To this end, the cognitive characteristics of experts are contrasted with those of novices (expert-novice-paradigm; for a more detailed description of the expert performance approach, see <ref type="bibr" target="#b18">Ericsson &amp; Lehmann, 1996)</ref>. This line of research has produced strong evidence showing that the superior performance of experts can be predominantly attributed to a large domainspecific knowledge base acquired during extensive practice <ref type="bibr" target="#b17">(Ericsson et al., 1993;</ref><ref type="bibr" target="#b45">Rikers &amp; Paas, 2005)</ref>. Even though there is presumably no doubt about the necessity of domain-specific training during which such a knowledge base is built in order to attain expert performance levels, individual differences in general cognitive abilities such as intelligence have been frequently regarded to be entirely negligible for expert performance. <ref type="bibr" target="#b22">Ericsson and Ward (2007)</ref>, for instance, summarized the existing body of research by claiming that "individual differences in more 'basic' cognitive processes (e.g., intelligence, memory capacity, and perceptual functioning) have not, to date, been predictive of attained level of skilled performance" (p. 348). Rather, the achieved level of expertise is seen to be merely a function of the amount of invested deliberate domainspecific practice <ref type="bibr" target="#b17">(Ericsson et al., 1993)</ref>. Only individual differences in personality variables that affect the individual's capacity to engage in long-term deliberate practice (e.g., motivation, persistence) were considered as relevant for expertise development.</p><p>Such strong claims from prominent proponents of expertise research have not notably changed since the seminal paper on the (exclusive) role of deliberate practice for expertise development by <ref type="bibr" target="#b17">Ericsson et al. (1993)</ref>. The body of empirical evidence on the relationship between intelligence and expert performance, in contrast, has considerably grown in the past two decades. Among many other expertise domains, this holds particularly true for the domain of chess which has been of particular relevance for expertise research. It is not only the first domain in which expert performance was systematically investigatedresearch in chess, moreover, has undoubtedly provided the vast majority of empirical findings, and, thus, most strongly contributed to today's theories and understanding of expertise. <ref type="bibr" target="#b58">Simon and Chase (1973)</ref> put it as follows: "As genetics needs its model organism, its Drosophila and Neurospora, so psychology needs standard task environments around which knowledge and understanding can cumulate. Chess has proved to be an excellent model environment for this purpose." (p. 394). In fact, investigating experts in the domain of chess has several advantages compared to other areas of expertise. First, this domain meets all theoretical and practical criteria of expert performance, in particular the necessity of long-term practice to achieve high performance levels <ref type="bibr" target="#b14">(Ericsson, 1996)</ref>. Second, an objective and valid indicator of players' expertise level exists in terms of an international performance ranking system (the ELO system; <ref type="bibr" target="#b13">Elo, 1978)</ref>. Third, over half a century of expertise research in chess has put forth some well-established expertise tasks which have been repeatedly applied to capture facets of expertise in this domain (e.g., <ref type="bibr">Chase &amp; Simon, 1973;</ref><ref type="bibr" target="#b49">Saariluoma, 1990)</ref>. And, finally, chess seems to be particularly well suited for the evaluation of the role of intelligence for expert performance since it is an intrinsically cognitive domain which taps many cognitive processes that are typically associated with intelligence, such as mental speed, spatial abilities, working memory, and reasoning <ref type="bibr" target="#b6">(Charness, 1992;</ref><ref type="bibr" target="#b33">Howard, 1999</ref><ref type="bibr" target="#b35">Howard, , 2005))</ref>.</p><p>The aim of the present paper is to provide an overview of the current state-of-art regarding the question of how important intelligence is for performance in the expertise domain of chess. Mainly two research approaches have been applied to address this question. First, chess players' intellectual abilities were assessed using psychometric tests in order to examine (a) whether expert chess players exhibit higher abilities than non-experts and (b) whether individual differences in the attained expertise level are also a function of these abilities. Second, the traditional expert-novice paradigm was extended by the factor intelligence (resulting in a 2 × 2design) to elucidate the interplay of both, expertise and intelligence, on the performance in experimental tasks devised to capture critical facets of expertise. In addition to a brief literature review of both research approaches, a major focus is laid on the previous work by the author <ref type="bibr" target="#b26">(Grabner, Neubauer, &amp; Stern, 2006;</ref><ref type="bibr" target="#b27">Grabner, Stern, &amp; Neubauer, 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1.">Psychometric studies</head><p>As simple as the question of whether expert chess players are more intelligent than weaker players or non-experts is, so inconsistent are the positions addressing this issue. While <ref type="bibr" target="#b33">Howard (1999</ref><ref type="bibr" target="#b34">Howard ( , 2001</ref><ref type="bibr" target="#b35">Howard ( , 2005) )</ref> regarded the observation that the mean age of world-class chess players is progressively declining in the last decades as real-world evidence that human intelligence is rising, other researchers concluded that "remarkable chess skill can exist in isolation, unaccompanied by other noteworthy intellectual abilities" <ref type="bibr">(Cranberg &amp; Albert, 1988, p. 161)</ref>. Notably, even among chess experts quite diverse opinions exists. José Raul Capablanca, a former chess world champion, once stated: "To play chess requires no intelligence at all." (cited in <ref type="bibr">Cranberg &amp; Albert, 1988, p. 159)</ref>. The British grandmaster Jonathan Levitt, in contrast, answered the question about the connection between chess ability and IQ as follows: "There are many reasons, some of them simply common sense, to believe that the two are strongly correlated." (cited in <ref type="bibr">Howard, 2005, p. 348)</ref>.</p><p>In addition to the fundamental question about the relevance of intelligence, there are also conflicting views about which components of intelligence are required for expert chess play and may, consequently, be related to playing strength. In this context, a very plausible candidate is visuo-spatial ability. Already early studies by de <ref type="bibr" target="#b10">Groot (1946)</ref> and <ref type="bibr" target="#b8">Chase and Simon (1973)</ref> emphasized the relevance of visuo-spatial pattern recognition for strong chess play, and more recent investigations on different facets of chess cognition have also substantiated this view. For instance, the suppression of the visuospatial component of working memory more strongly affects chess performance than the distraction of the phonological loop (e.g., <ref type="bibr" target="#b46">Robbins et al., 1996;</ref><ref type="bibr" target="#b50">Saariluoma, 1992)</ref>. Furthermore, investigations of blindfold chess play have revealed that playing without sight of the board relies heavily on a strong visual imagery component (e.g., <ref type="bibr" target="#b5">Chabris &amp; Hearst, 2003;</ref><ref type="bibr" target="#b51">Saariluoma &amp; Kalakoski, 1998)</ref>. Thus, expert chess players could be assumed to have particularly strong visuo-spatial abilities, whereas other components (such as verbal or numerical intelligence) may not loom large.</p><p>Psychometric studies addressing the aforementioned issues have been conducted on both, child and adult chess experts. To date, four studies have investigated children. <ref type="bibr" target="#b23">Frank and D'Hondt (1979)</ref> randomly allocated a sample of 90 adolescents (around 14 years old) to a chess training class and a control class. Several psychometric tests were administered before and after the intervention. Results revealed that the achieved playing strength after one year could be predicted by participants' 'spatial aptitude' and 'numeric ability' subtests from the Primary Mental Abilities test, the subscales 'administrative sense' and 'numeric aptitude' from the General Aptitude Tests Battery, and 'office work' from the Differential Aptitude Test. <ref type="bibr" target="#b32">Horgan and Morgan (1990)</ref> investigated a small sample of 15 child elite players (average age of 12 years) using the Raven's figural matrices intelligence test. They reported (age-corrected partial) correlations of intelligence with ELO rating of .34 and with the performance in a chess-related task (Knight's tour task; requiring participants to move the knight so that it visits every square on the board) of .52. <ref type="bibr" target="#b24">Frydman and Lynn (1992)</ref> tested 33 child tournament players (average age of 11 years) with the Wechsler Intelligence Scale for Children (WISC) and observed significantly above average scores for general intelligence (mean IQ = 121) and the performance IQ (mean IQ = 129) but not for verbal intelligence (mean IQ = 109). In addition, in dividing the sample into three groups, they additionally observed significant differences for the performance IQ between the strongest and the weakest group (131 vs. 124 IQ points). Based on these findings they concluded that "high-level chess playing requires good general intelligence and strong visuospatial abilities" (p. 235).</p><p>In the most recent investigation of general cognitive abilities in child chess players, <ref type="bibr" target="#b2">Bilalic, McLeod, and Gobet (2007)</ref> administered four subtests of the WISC (i.e., vocabulary, block design, symbol search, and digit span) in 57 children (mean age of 11 years) with about 4 years chess playing experience. Chess skill was assessed by means of a chess test, a recall task, and the Knight's tour task. It turned out that the sample had an above-average IQ of 121.6 points and that the IQ correlated significantly (around .50) with all three assessments of chess skill. Within the WISC subscales, 'vocabulary <ref type="bibr">' and 'block design' displayed weaker correlations (between .18 and .33) compared to 'digit span' and 'symbol search' (between .42 and .58)</ref>. A subsequent regression analysis revealed that domain-specific practice was the best predictor of chess skill but intelligence incrementally explained some variance. The authors also performed an additional analysis in a sub-sample of 23 elite child chess players possessing tournament rating scores. Although these players displayed significantly higher IQs than the rest of the sample (133 vs. 114), surprisingly, IQ was negatively correlated with their expertise level after age and practice was controlled for, with the visuo-spatial 'block design' and 'symbol search' subscales displaying the largest negative correlations. This discrepancy between the results in the entire and elite samples was partially attributed to the different measures of chess skill. However, even when the same chess skill measures were used in the elite sample, no significant relationship with intelligence resulted. One plausible explanation for this finding referred to the children's practice: In contrast to the entire sample, in the elite sample the more intelligent children invested less time in chess practice. When practice, being the best predictor, was controlled for, the influence of intelligence could be expected to be negative. Based on the findings for the different intelligence subscales, they concluded that "the common view of the great importance of visuo-spatial ability is a myth" (p. 468).</p><p>Taken the results for child chess players together, two studies <ref type="bibr" target="#b2">(Bilalic et al., 2007;</ref><ref type="bibr" target="#b24">Frydman &amp; Lynn, 1992</ref>) compared child expert players' intelligence with those of controls and reported above-average scores for the experts. Significant correlations between expertise level and intelligence were observed in all four studies with the exception of the elite subsample in <ref type="bibr" target="#b2">Bilalic et al. (2007)</ref>. Thus, the studies on children provide consistent support for the assumption that individual differences in general cognitive abilities are related to expertise development (see also <ref type="bibr" target="#b36">Howard, 2008)</ref>. The findings on the relevance of visuo-spatial abilities, in contrast, are mixed: While the studies by Frank and D'Hondt as well as Frydman and Lynn suggest an important role of this content domain of intelligence, Bilalic et al. found lower correlations of chess skill with visuo-spatial subscales compared to other subscales.</p><p>Turning to studies in adults, the first investigation on the relevance of general cognitive abilities for chess performance was already conducted in 1927 <ref type="bibr" target="#b11">(Djakow, Petrowski, &amp; Rudik, 1927)</ref>. The authors tested the intellectual abilities of eight grandmasters (including world champions) and found no evidence of above-average concentration ability, visuo-spatial memory or general intelligence. An unpublished investigation of Lane (reported in <ref type="bibr">Cranberg &amp; Albert, 1988, p. 161)</ref>, who tested a sample of players from novices to strong amateurs, also did not report an association between chess expertise and performance on a non-chess, visuo-spatial task. No relationship between visuo-spatial ability and chess expertise was also reported by <ref type="bibr" target="#b66">Waters, Gobet, and Leyden (2002)</ref>. They investigated visual memory ability in a sample of 36 tournament players ranging in playing strength from weak club players to strong grandmasters. Participants worked on two visual memory tasks: a modified version of the traditional chess memory paradigm (re-construction of briefly presented chess positions; <ref type="bibr">Chase &amp; Simon, 1973)</ref> and a shape memory test, in which the players had to memorize and recognize configurations of shapes. While the performance in the chess memory task correlated significantly (r = .68) with playing strength; shape memory performance was unrelated to chess skill (r = .03). Thus, "at the very least, the data indicate that individuals can become exceptional chess players without having exceptional visual memory abilities." (p. 563).</p><p>Unterrainer, Kaller, Halsband, and Rahm ( <ref type="formula">2006</ref>) compared 25 club chess players (ELO scores between 1,250 and 2,100) with 25 controls matched for age and education in the performance on the Tower of London task, measuring planning abilities. They observed better overall performance in the chess players with increasing differences in more complex planning problems. However, the intelligence of chess players (as assessed by means of the Raven's matrices test) was neither superior to that of the controls, nor related to their playing strength. More recently, <ref type="bibr" target="#b63">Unterrainer, Kaller, Leonhart, and Rahm (2011)</ref> failed to replicate the superior planning performance in chess players (ELO scores between 1,209 and 2,303) in two experiments, but could again show that their intelligence (as measured by a short version of the Wechsler intelligence test) was unrelated to their playing strength.</p><p>The first comprehensive psychometric investigation of adult expert chess players' general intellectual abilities was conducted by <ref type="bibr" target="#b12">Doll and Mayr (1987)</ref>. Twenty-seven chess experts (ELO ratings from 2,220 to 2,425) were screened using two intelligence tests: (1) a test based on the Berlin Intelligence Structure Model, measuring three content-related abilities (verbal, number, figural), four operational abilities (processing speed, memory, creativity, information processing capacity), and general intelligence; and (2) a part of Cattell's Culture Fair Intelligence Test (CFT-3). Compared with reference samples, the chess players had significantly higher IQs for the BIS operational subscales processing speed (mean IQ = 115.30) and information processing capacity (mean IQ = 114.20) as well as for the content subscale number (mean IQ = 116.40). Moreover, the general intelligence scores of the BIS (mean IQ = 106.50) and the CFT-3 (no IQ scores indicated) were also significantly higher in the chess experts. However, no significant correlations between the scores in the intelligence tests and the ELO ratings were found, which was attributed to the restricted variance in the players' ratings.</p><p>In the years 2003 and 2004, we <ref type="bibr" target="#b27">(Grabner et al., 2007</ref>) conducted a psychometric investigation of chess players with the (so far) largest sample of tournament players. Specifically, we tested 90 tournament players broadly ranging in their playing strength (ELO scores between 1,311 and 2,387) with a well-established German intelligence structure test (Intelligenz-Struktur-Test 2000 R, I-S-T 2000 R; <ref type="bibr" target="#b0">Amthauer, Brocke, Liepmann, &amp; Beauducel, 2001)</ref>. This test allowed the assessment of verbal, numerical and figural (visuo-spatial) intelligence (each with three subscales, see Table <ref type="table" target="#tab_0">1</ref>) as well as general intelligence. In addition to these measures of fluid intelligence (i.e., the ability to solve novel problems), the test also offers an extension module which assesses crystallized intelligence (i.e., general knowledge acquired during an individual's acculturation process; <ref type="bibr" target="#b4">Cattell, 1963)</ref>. Specifically, the extension module assessed general knowledge in three content areas: verbal (e.g., "Who invented the light bulb?"), numerical (e.g., "About how many bytes are a gigabyte?") and figural (e.g., "Which symbol stands for 'registered trademark'?"). The results of the extension module have not been published in <ref type="bibr" target="#b27">Grabner et al. (2007)</ref> and are presented for the first time here. In addition to fluid and crystallized intelligence, several other variables ranging from personality dimensions to domain-specific experience were assessed (for details, see <ref type="bibr" target="#b27">Grabner et al., 2007)</ref>. Table <ref type="table" target="#tab_0">1</ref> presents the descriptive statistics of the intelligence scores as well as their correlations with playing strength. The following results are noteworthy: First, the sample of tournament chess players displayed a wide range of intelligence (in general intelligence from values as low as 79 IQ points to values as high as 144 IQ points) and displayed, on average, higher intelligence scores than in an age-matched reference sample. This was particularly true for numerical intelligence whose mean was more than one standard deviation higher. Second, we observed significant correlations between ELO score and intelligence. The correlation was of medium effect size for general and verbal intelligence but of large size for numerical intelligence. Notably, figural intelligence was entirely unrelated to participants' expertise level. This content-specific dissociation was also reflected in the correlations of the individual subscales. A closer look at the insignificantly related figural subscales revealed that two subscales ('figure selection' and 'cube task') displayed null-correlations but the matrices test was slightly but insignificantly positively correlated. Third, the crystallized intelligence of the chess players' was also significantly related to their playing strength with the highest correlation again for the numerical content area (with almost large effect size).</p><p>In order to quantify how much variance in playing strength can be accounted for by these measures of general cognitive abilities, we conducted a multiple regression analysis between the ELO rating as the dependent variable and the components of intelligence test (fluid and crystallized intelligence in the three content areas). Significant contributions to the prediction were made by (1) numerical intelligence (β = .43, t = 3.08, p b .01), (2) figural intelligence (β = −.34, t = −3.21, p b .01), and (3) numerical knowledge (β = .29, t = 2.22, p b .05), totally accounting for 32% (30% adjusted) of the variability of the ELO ratings, R = .57, F(3, 86) = 13.49, p b .001. In the 2007 paper, we could also reveal that numerical intelligence remains a significant predictor of playing strength (β = .31), even when domain-specific experience and practice, which loomed largest, and other predictors were included.</p><p>Summarizing the studies on adult chess players, two studies <ref type="bibr" target="#b11">(Djakow et al., 1927;</ref><ref type="bibr" target="#b62">Unterrainer et al., 2006)</ref> failed to find superior general cognitive abilities in expert chess players, whereas two studies <ref type="bibr" target="#b12">(Doll &amp; Mayr, 1987;</ref><ref type="bibr" target="#b27">Grabner et al., 2007)</ref> provided quite clear-cut evidence thereof. Importantly, the latter two studies administered a broad battery of wellestablished psychometric intelligence tests, whereas the applied tests in the study by <ref type="bibr" target="#b11">Djakow et al. (1927)</ref> are largely unknown and in <ref type="bibr" target="#b62">Unterrainer et al. (2006)</ref> were restricted to the Raven's matrices test. A significant relationship between intelligence and expertise level was only observed in the larger-scale study by <ref type="bibr" target="#b27">Grabner et al. (2007)</ref>. In that study, however, about 30% of the variance in playing strength could be accounted for by fluid and crystallized intelligence measures. Regarding the importance of visuo-spatial abilities, the studies on adults draw a more consistent picture than the studies on children. Whereas in children, there is some evidence that visuo-spatial abilities seem to be related to playing strength, none of the seven studies on adults provided any hint for such a relationship. In contrast, adult studies suggest that expert chess players can be characterized by superior numerical intelligence, which may be related to the (partial) numerical notation of the chess board and the representation of moves by addition and subtraction processes (for further discussion, see <ref type="bibr" target="#b27">Grabner et al., 2007)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2.">The extended expert-novice paradigm</head><p>A more powerful approach to investigate the relationship between intelligence and expertise is to extend the traditional expert-novice paradigm with intelligence as a second factor. This design allows the direct investigation whether (and to what extent) individual performance differences in tasks drawing on key facets of expertise can be accounted for by expertise, by intelligence, or by both. In the literature, several studies employing such a design have provided consistent evidence that domain-specific knowledge and skills (or the level of expertise, respectively) have a strong impact on domain-specific performance <ref type="bibr" target="#b28">(Hambrick &amp; Engle, 2002;</ref><ref type="bibr" target="#b29">Hambrick &amp; Meinz, 2011;</ref><ref type="bibr" target="#b30">Hambrick, Meinz, Pink, Pettibone, &amp; Oswald, 2010;</ref><ref type="bibr" target="#b31">Hambrick &amp; Oswald, 2005;</ref><ref type="bibr" target="#b53">Schneider, 1997;</ref><ref type="bibr" target="#b55">Schneider &amp; Bjorklund, 1992;</ref><ref type="bibr" target="#b57">Schneider, Korkel, &amp; Weinert, 1989;</ref><ref type="bibr" target="#b61">Stern, 1994;</ref><ref type="bibr" target="#b65">Walker, 1987)</ref>. General cognitive abilities, in contrast, were found to be of no relevance at all (e.g., <ref type="bibr" target="#b65">Walker, 1987)</ref> or to come into play when the complexity of the task demands increases (e.g., <ref type="bibr" target="#b56">Schneider, Bjorklund, &amp; Maier-Bruckner, 1996)</ref>. Particularly noteworthy are the studies by Hambrick and colleagues <ref type="bibr" target="#b28">(Hambrick &amp; Engle, 2002;</ref><ref type="bibr" target="#b31">Hambrick &amp; Oswald, 2005)</ref>, in which the interplay between domain-specific knowledge or deliberate practice, on the one hand, and working memory capacity as general cognitive ability, on the other hand, were investigated. They put forward and tested three models about this interplay:</p><p>(1) An interactive compensational model, according to which a high level of expertise reduces the impact of general cognitive abilities on performance, (2) an additive model, indicating that expertise and general cognitive abilities exert independent effects on performance, and (3) a rich-get-richer model, postulating that a high level of expertise even amplifies the (positive) impact of general cognitive abilities. In a nutshell, their studies in different expertise domains provided quite consistent evidence in favor of the additive model. Domainspecific knowledge or deliberate practice had the strongest impact on task performance and this was accompanied by an independent but smaller effect of working memory capacity.</p><p>A central restriction of many previous studies not finding any impact of intelligence on expert task performance lies in the range of cognitive demands investigated. Actually, the majority of them focused on domain-related memory tasks. Memory tasks are the most frequently employed experimental tasks in the history of expertise research, as experts in various domains have consistently turned out to display superior memory for meaningful domain-specific material <ref type="bibr" target="#b15">(Ericsson, 2005;</ref><ref type="bibr" target="#b21">Ericsson &amp; Smith, 1991;</ref><ref type="bibr" target="#b64">Vicente &amp; Wang, 1998)</ref>. However, they may not be the best choice to gain comprehensive insights into the overall impact of general cognitive abilities.</p><p>To the best of my knowledge, the extended expert-novice paradigm involving psychometrically assessed intelligence was applied in tournament chess in only one study so far <ref type="bibr" target="#b26">(Grabner et al., 2006)</ref>. In that study, we selected a sub-sample of tournament chess players from the psychometrically screened participant pool in <ref type="bibr" target="#b27">Grabner et al. (2007)</ref> with the aim to compare four groups of individuals: i.e., experts of lower intelligence, experts of higher intelligence, novices of lower intelligence, and novices of higher intelligence. In the final sample of 47 participants, expertise and intelligence were not correlated, so that the impacts of both factors on task performance could be disentangled. In contrast to previous studies focusing on memory performance, we administered three types of tasks with chess material, which covered a broad range of cognitive demands. The first task drew on speed of information processing, representing an essential cognitive correlate of intelligence <ref type="bibr" target="#b39">(Jensen, 1998;</ref><ref type="bibr" target="#b42">Neubauer &amp; Fink, 2005)</ref> and probably also of expertise <ref type="bibr" target="#b44">(Reingold, Charness, Schultetus, &amp; Stampe, 2001;</ref><ref type="bibr" target="#b48">Saariluoma, 1985)</ref>. Specifically, participants had to determine the number of certain pieces on the board as fast and accurately as possible <ref type="bibr" target="#b48">(Saariluoma, 1985</ref><ref type="bibr" target="#b49">(Saariluoma, , 1990))</ref>. The second task required memorization of briefly presented chess positions, which can be regarded as the gold standard task in expertise research <ref type="bibr" target="#b18">(Ericsson &amp; Lehmann, 1996)</ref>. The third task was devised to draw on more complex reasoning demands, which may be considered to reflect critical (higher-order) facets of intelligence and chess expertise. Here, the participants had to either solve chess problems (matein-one problems) or solve a planning task involving chess pieces. Each task was administered in a representative and non-representative task version for the domain of chess. This was realized by presenting actual game positions or meaningless chess positions on the board.</p><p>Analyses of the task performance revealed main effects of expertise and intelligence but no interaction, reflecting independent and additive effects of both factors. Interestingly, the effects of both factors across all tasks for response latencies (which were the more reliable performance indicators compared to solution rates displaying ceiling effects) were exactly of the same (large) size (both η 2 = .19). Moreover, while intelligence had a universal impact on task performance (i.e., was independent of whether the task was representative or non-representative for the domain of chess), the expertise effect was differentially pronounced for different task versions. In line with previous findings, the impact of expertise was larger in the representative task versions (involving meaningful chess material) compared to the non-representative versions in both, the memory and the reasoning task. In other words, experts could take particular advantage of their domain-specific knowledge and skills when the task at hand was directly drawing on them. In <ref type="bibr" target="#b26">Grabner et al. (2006)</ref>, we also assessed participants' brain activation during task performance by means of electroencephalography to examine whether and how expertise and intelligence are related to the efficiency of brain functioning. Similar to the performance data, both factors had independent effects on brain activity, with the intelligence effect again being unrelated to the task demands.</p><p>Thus, the performance in tasks that were successfully employed in expertise research to investigate the cognitive bases of experts' performance (in particular memory tasks) does not seem to be independent of the individual's level of general cognitive ability in terms of working memory <ref type="bibr" target="#b29">(Hambrick &amp; Meinz, 2011)</ref> or intelligence <ref type="bibr" target="#b26">(Grabner et al., 2006)</ref>. There are several plausible explanations for this finding. Hambrick and colleagues focused on working memory capacity reflecting the "limits on the ability to simultaneously store and process information" <ref type="bibr">(Hambrick &amp; Meinz, 2011, p. 277</ref>) and argued that this limit has some impact on how well domain-specific information can be memorized. <ref type="bibr" target="#b41">Meinz and Hambrick (2010)</ref> even demonstrated that this limit is relevant to expert performance beyond simple memory tasks. Specifically, they found that sight-reading performance in expert pianists is not only a function of domain-specific (deliberate) practice but also of working memory capacity with the latter limiting the number of notes a player can look ahead in the piece of music while playing. Similar influences of intelligence on task performance can be thought of for the chess-related demands in our study. When participants are required to count as fast as possible the number of given pieces on a board, the individual's general speed of information processing as well as central executive processes such as selective attention will likely be required. Also, the memory performance for briefly presented chess positions may be influenced by the individual's general short-term or working memory capacity. Eventually, solving mate-in-one chess problems might, in addition to domain-specific knowledge, also require keeping in mind the results of intermediate steps in working memory. Thus, general cognitive abilities, in particular intelligence, cannot only be expected but were found to have an influence on the performance in tasks that are frequently used in expertise research.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Discussion</head><p>In chess, the Drosophila of expertise research, the current body of evidence strongly challenges the notion that general cognitive abilities, in particular intelligence, are entirely unrelated to expert performance <ref type="bibr" target="#b15">(Ericsson, 2005;</ref><ref type="bibr" target="#b22">Ericsson &amp; Ward, 2007;</ref><ref type="bibr" target="#b17">Ericsson et al., 1993)</ref>. There are now findings that expert chess players display above-average intelligence, that their playing strength is related to their individual's intelligence level, and that their performance in expertise-related tasks is also a function of intelligence.</p><p>This body of evidence certainly does not suggest that intelligence is a better predictor of expert performance than domain-specific skills or practice. On the contrary, there are several studies showing that playing strength in chess can be best predicted by domain-specific practice (e.g., <ref type="bibr" target="#b2">Bilalic et al., 2007;</ref><ref type="bibr" target="#b3">Campitelli &amp; Gobet, 2011;</ref><ref type="bibr" target="#b7">Charness, Tuffiash, Krampe, Reingold, &amp; Vasyukova, 2005;</ref><ref type="bibr" target="#b25">Gobet &amp; Campitelli, 2007)</ref>. This was also reflected in our psychometric investigation of 90 tournament chess players <ref type="bibr" target="#b27">(Grabner et al., 2007)</ref>, where the individual chess experience (represented by the age at which participants entered the chess club and the number of tournament games) was the strongest predictor of the ELO rating. However, the assumption of an exclusive role of domain-specific practice for expertise development independent of any influence of cognitive potential, in contrast, is meanwhile quite implausible. Apart from the studies reviewed in this article, there is growing data suggesting that some individuals require more and others less deliberate practice to attain the same expert performance levels in chess <ref type="bibr" target="#b3">(Campitelli &amp; Gobet, 2011)</ref>. For example, <ref type="bibr" target="#b25">Gobet and Campitelli (2007)</ref> reported that the number of self-reported practice hours to master level displayed a huge range from 3,000 to 23,600. <ref type="bibr" target="#b37">Howard (2009)</ref> analyzed the dataset of the International Chess Federation and found that the number of tournament games needed to attain the grandmaster title was normally distributed similar to intelligence. Even a reanalysis of the famous Polgar sisters case, which is often cited as proof that only practice matters, revealed that despite the engagement in similarly intensive practice the three sisters displayed quite different trajectories of expertise development and attained different levels of playing strength <ref type="bibr" target="#b38">(Howard, 2011)</ref>. In addition, also the investigation of chess prodigies (who had attained the grandmaster title before the 15th birthday) revealed much steeper ELO score increases over time compared to other grandmasters, which is very unlikely to the due to differences in the pure amount of practice <ref type="bibr" target="#b36">(Howard, 2008)</ref>. Since some of these prodigies started learning chess only a few years before achieving the grandmaster title (e.g., about 3 years), these children "would have needed to pack in a lot more deliberate practice hours in two or three years than other adult active grandmasters do in 20 years, which seems implausible, but it cannot be ruled out. <ref type="bibr">" (p. 127)</ref>.</p><p>The reviewed findings are also relevant for the widelydiscussed question about the importance of intelligence, as measure of cognitive potential, in the development of expertise. Asked differently: At what stages of expertise development does intelligence come into play? One frequently proposed assumption is that intelligence is a prerequisite for expertise development. In this context, it is often referred to a threshold model of intelligence, according to which a certain threshold of intelligence needs to be met to attain high intellectual performance but beyond the threshold "individual differences in predominantly noncognitive variables such as commitment, endurance, concentration, or motivation determine peak performance" <ref type="bibr">(Schneider, 1998, p. 424)</ref>. According to <ref type="bibr" target="#b1">Barron and Harrington (1981)</ref> this threshold could be around an IQ of 120 in complex intellectual domains. Indeed, the analyses of the data in <ref type="bibr" target="#b27">Grabner et al. (2007)</ref> revealed that expert chess players (defined as players with ELO scores over 2,200) can already be observed with IQs slightly above average (110-115). Interestingly, one of the world's greatest chess players, Garry Kasparov, was also found to score in intelligence tests not much above 120 <ref type="bibr">(Der Spiegel, 1987)</ref>. Thus, if intelligence was indeed a prerequisite for expertise development in chess, then aboveaverage rather than extraordinary intelligence could be sufficient to attain outstanding performance levels. A related but somewhat different view on the role of intelligence in expertise development was proposed in the partial compensation model <ref type="bibr" target="#b54">(Schneider, 1998)</ref>. According to this model, intelligence looms large in the early stages of expertise development, whereas later on (or at higher expertise levels, respectively) its impact is reduced or even eliminated. Even though both models are appealing and in line with the lack of significant correlations between chess playing strength and intelligence in subsamples of strong players <ref type="bibr" target="#b2">(Bilalic et al., 2007;</ref><ref type="bibr" target="#b12">Doll &amp; Mayr, 1987)</ref>, studies applying the extended expert-novice paradigm and longitudinal studies tracing exceptional performers have produced contrary results. First, in chess and other domains it was observed that general cognitive abilities (intelligence or working memory capacity) contribute to domain-specific performance even in groups of experts <ref type="bibr" target="#b26">(Grabner et al., 2006;</ref><ref type="bibr" target="#b29">Hambrick &amp; Meinz, 2011)</ref>. Second, there is an increasing body of longitudinal data revealing that even within samples of cognitively exceptional individuals, individual differences in intelligence are highly predictive of the attained level of scientific expertise <ref type="bibr" target="#b40">(Lubinski &amp; Benbow, 2006)</ref>. As an example, among individuals scoring at age 13 within the top 1% in the mathematical SAT, those who scored in the upper quartile (best 0.25%) were much more likely to have a peer-reviewed publication (4.5 times) or to own a doctorate in the STEM areas (Science, Technology, Engineering, and Mathematics; 18.2 times) compared to those who scored in the lowest quartile <ref type="bibr" target="#b47">(Robertson, Smeets, Lubinski, &amp; Benbow, 2010)</ref>.</p><p>Even if intelligence in general does not seem to entirely lose its impact in later stages of expertise development, it is conceivable that the importance of different facets of general cognitive abilities underlie some change. This assumption can be based on the findings that visuo-spatial abilities seem to be more strongly related to playing strength in children compared to adults. In light of the repeatedly corroborated role of visuo-spatial processes in chess play (e.g., <ref type="bibr" target="#b5">Chabris &amp; Hearst, 2003;</ref><ref type="bibr" target="#b46">Robbins et al., 1996)</ref>, it could be speculated that in early expertise development individual differences in visuo-spatial abilities influence training success, whereas later on, when superior domain-specific visuo-spatial skills (e.g., pattern recognition) have been established, the relevance of domain-general visuo-spatial abilities decreases. The (relative) importance of different intelligence components in the process of expertise acquisition may thus be a fruitful research question in future (longitudinal) research.</p><p>It is important to highlight that the reviewed studies on intelligence and chess expertise have not produced a consistent picture and that they can be criticized on methodological grounds. In the psychometric studies, on the one hand, one major limitation lies in the lack of representative samples of tournament players which comprises conclusions on the intelligence distribution of chess experts. Nonetheless, the majority of these studies suggest that expert chess players possess above-average intelligence. The findings from correlational studies, in contrast, were more diverse with the apparently quite consistent picture that among highly proficient experts (e.g., subsamples of participants with high ELO ratings), intelligence is no longer associated with playing strength. Although this null finding corresponds to the aforementioned partial compensation model, it can easily be accounted for by methodological limitations (see also <ref type="bibr" target="#b47">Robertson et al., 2010</ref>, for methodological preconditions in the study of exceptional performers). Basically, the null correlations could be explained by the small and range-restricted samples that were investigated. In addition, they could be due to the assessment of intelligence. Since different facets of intelligence seem to be differentially related to playing strength (probably also depending on the stage of expertise development), it is critical that broad intelligence structure tests capturing different components of intelligence are administered. Finally, as emphasized by <ref type="bibr" target="#b2">Bilalic et al. (2007)</ref>, "the role of intelligence in the acquisition of chess skill should not be assessed separately from other relevant factors … [such as] practice, experience, age, gender" (p. 468). Not considering how these factors interact could indeed produce results in analyses that mask influences of intelligence. The application of the extended expert-novice paradigm, on the other hand, is a more powerful means to evaluate whether and how intelligence contributes to expert performance. This paradigm, however, is restricted in that it investigates performance in tasks that are only (though strongly) associated with domain-specific expertise but do not capture the essence of expertise. For instance, the superior memory performance of expert chess players for briefly presented chess positions is only a byproduct of their playing strength <ref type="bibr">(Chase &amp; Simon, 1973;</ref><ref type="bibr">Simon &amp; Chase, 1973)</ref>. Likewise, determining the solution to a mate-in-one problem is only one facet of expert performance in chess. In this context, however, it is important to keep in mind that such tasks derived from the original expert-novice paradigm that aims at elucidating the cognitive characteristics of experts. Consequently, there does not seem to be a sound argument against the application of such tasks when evaluating whether the performance is solely a matter of domain-specific skills or also of domain-general abilities.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Conclusion</head><p>The present paper presents a review of the current body of evidence regarding the question of how important intelligence, as an individual's cognitive potential, is for expert performance in chess. Although the available studies have not drawn a fully consistent picture, presumably partly due to methodological differences, they produced significant findings suggesting that chess expertise does not stand in isolation from intelligence. Undoubtedly, there is a need for more comprehensive, ideally longitudinal studies to elucidate the interplay between intelligence and expertise at different stages in expertise development. Such studies would require and support the collaboration of researchers from both disciplines (expertise and intelligence) and will likely result in more comprehensive theories on expertise development in which domain-general and domainspecific cognitive functions are integrated.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Descriptive statistics of the intelligence scores and correlations between them and the ELO rating in the sample of 90 tournament chess players described in<ref type="bibr" target="#b27">Grabner et al. (2007)</ref>.</figDesc><table><row><cell></cell><cell>r</cell><cell>Min</cell><cell>Max</cell><cell>M</cell><cell>SD</cell></row><row><cell>Fluid intelligence d</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(IQ scores)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>General intelligence</cell><cell cols="5">.35** 78.87 144.38 113.53 14.05</cell></row><row><cell>Verbal intelligence</cell><cell cols="5">.38** 72.02 134.09 108.41 13.36</cell></row><row><cell>Numerical intelligence</cell><cell cols="5">.46** 77.78 135.95 116.41 14.15</cell></row><row><cell>Figural intelligence</cell><cell>.02</cell><cell cols="4">69.77 140.87 106.14 15.41</cell></row><row><cell>Crystallized intelligence</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(solution rates in %)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>General knowledge</cell><cell cols="3">.41** 45.65 100.00</cell><cell cols="2">74.93 12.39</cell></row><row><cell>Verbal knowledge</cell><cell>.24*</cell><cell cols="2">50.00 100.00</cell><cell cols="2">85.91 12.24</cell></row><row><cell>Numerical knowledge</cell><cell cols="3">.45** 25.00 100.00</cell><cell cols="2">70.42 16.28</cell></row><row><cell>Figural knowledge</cell><cell cols="3">.30** 21.43 100.00</cell><cell cols="2">67.54 16.90</cell></row><row><cell>Fluid intelligence subscales d</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>(IQ scores)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Sentence completion a</cell><cell cols="5">.30** 78.68 131.80 106.77 12.53</cell></row><row><cell>Analogies a</cell><cell cols="5">.28** 70.36 132.05 106.56 12.74</cell></row><row><cell>Finding similarities a</cell><cell cols="5">.30** 70.49 130.79 105.33 13.42</cell></row><row><cell>Arithmetic problems b</cell><cell cols="5">.38** 81.04 136.69 114.23 15.02</cell></row><row><cell>Number series b</cell><cell cols="5">.44** 70.76 131.92 113.27 14.79</cell></row><row><cell>Arithmetic operators b</cell><cell cols="5">.39** 78.70 130.00 115.81 12.54</cell></row><row><cell>Figure selection c</cell><cell>−.07</cell><cell cols="4">66.62 134.77 105.34 14.38</cell></row><row><cell>Cube task c</cell><cell>−.06</cell><cell cols="4">69.92 134.44 104.86 15.26</cell></row><row><cell>Matrices c</cell><cell>.20</cell><cell cols="4">65.26 138.53 103.04 14.34</cell></row><row><cell>Note.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>* p b .01; ** p b .01. a Verbal subtests. b Numerical subtests. c Figural subtests. d Correlations were computed between raw scores and ELO rating. For reasons of comparability with other studies the descriptive statistics refer to standardised IQ scores (M = 100, SD = 15), corrected for age.</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">R.H.Grabner / Intelligence 45 (2014) 26-33   </note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The reviewed research from the author was partly supported by a grant from the Austrian Science Foundation (Fonds zur Förderung der wissenschaftlichen Forschung, P16393). Special thanks are due to Isabel Müller and Ronja Runge for their assistance in partial reanalyses of data from previous research.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Intelligenz-Struktur-Test</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Amthauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Brocke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Liepmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beauducel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2001. 2000</date>
+			<publisher>Hogrefe</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Creativity, intelligence, and personality</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Harrington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="439" to="476" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Does chess need intelligence? -A study with young chess players</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bilalic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcleod</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gobet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="457" to="470" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Deliberate practice: Necessary but not sufficient</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Campitelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gobet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="280" to="285" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Theory of fluid and crystallized intelligence: A critical experiment</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Cattell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Educational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Visualization, Pattern Recognition, and Forward Search: Effects of Playing Speed and Sight of the Position on Grandmaster Chess Errors</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Chabris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Hearst</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Science</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="637" to="648" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The impact of chess research on cognitive science</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Charness</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Research-Psychologische Forschung</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="4" to="9" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The role of deliberate practice in chess expertise</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Charness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tuffiash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Reingold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vasyukova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="151" to="165" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Perception in chess</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Chase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="55" to="81" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The chess mind</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Cranberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Albert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The exceptional brain. Neuropsychology of talent and special abilities</title>
+				<editor>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Obler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Fein</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guilford Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="156" to="190" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Het denken van den Schaker</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>De Groot</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1946">1946</date>
+			<publisher>Noord Hollandsche</publisher>
+			<pubPlace>Amterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Djakow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Petrowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Rudik</surname></persName>
+		</author>
+		<title level="m">Psychologie des Schachspiels</title>
+				<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>de Gruyter</publisher>
+			<date type="published" when="1927">1927</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Intelligenz und Schachleistung -eine Untersuchung an Schachexperten</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Doll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Mayr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychologische Beiträge</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="270" to="289" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The rating of chess players past and present</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Elo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Arco</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The road to excellence: the acquisition of expert performance in the arts and sciences, sports, and games</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<editor>K. A. Ericsson</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Lawrence Erlbaum Associates</publisher>
+			<biblScope unit="page" from="1" to="50" />
+			<pubPlace>Mahwah, New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The acquisition of expert performance: An introduction to some of the issues</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Recent Advances in Expertise Research: a Commentary on the Contributions to the Special Issue</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="233" to="241" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Grabner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="26" to="33" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Role of Deliberate Practice in the Acquisition of Expert Performance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Krampe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Tesch-Römer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="363" to="406" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Expert and exceptional performance: Evidence of maximal adaptation to task constraints</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lehmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="273" to="305" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Giftedness Viewed From the Expert-Performance Perspective</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nandagopal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Roring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal for the Education of the Gifted</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="287" to="311" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Giftedness and evidence for reproducibly superior performance: an account based on the expert performance framework</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Roring</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nandagopal</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13598130701350593</idno>
+		<ptr target="http://dx.doi.org/10.1080/13598130701350593" />
+	</analytic>
+	<monogr>
+		<title level="j">High Ability Studies</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="56" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prospects and limits of the empirical study of expertise: an introduction</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Toward a General Theory of Expertise. Prospects and Limits</title>
+				<editor>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">&amp;</forename><forename type="middle">J</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="1" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Capturing the Naturally Occurring Superior Performance of Experts in the Laboratory: Toward a Science of Expert and Exceptional Performance</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Ericsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ward</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1467-8721.2007.00533.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1467-8721.2007.00533.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="346" to="350" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>&amp; D'hondt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Aptitudes et apprentissage du jeu d&apos;échecs du Zaïre</title>
+				<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="81" to="98" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The General Intelligence and Spatial Abilities of Gifted Young Belgian Chess Players</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Frydman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lynn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="233" to="235" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Role of Domain-Specific Practice, Handedness, and Starting Age in Chess</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gobet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Campitelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="159" to="172" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Superior performance and neural efficiency: The impact of intelligence and expertise</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Grabner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Neubauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brain Research Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="422" to="439" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Individual Differences in Chess Expertise: a Psychometric Investigation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Grabner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Neubauer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Psychologica</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="398" to="420" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of domain knowledge, working memory capacity, and age on cognitive performance: An investigation of the knowledge-is-power hypothesis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Engle</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/cogp.2001.0769</idno>
+		<ptr target="http://dx.doi.org/10.1006/cogp.2001.0769" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="339" to="387" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Limits on the predictive power of domain-specific experience and knowledge in skilled performance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Meinz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="275" to="279" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Learning outside the laboratory: Ability and non-ability influences on acquiring political knowledge</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Meinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Pink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pettibone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Oswald</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.lindif.2009.10.013</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.lindif.2009.10.013" />
+	</analytic>
+	<monogr>
+		<title level="j">Learning and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="45" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Does Domain Knowledge Moderate Involvement of Working Memory Capacity in Higher-Level Cognition? A Test of Three Models</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Oswald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Memory and Language</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="377" to="397" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Chess Expertise in Children</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Horgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="109" to="128" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Preliminary real-world evidence that average human intelligence really is rising</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intelligence</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="235" to="250" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Searching the real world for signs of rising population intelligence</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1039" to="1058" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Objective evidence of rising population ability: a detailed examination of longitudinal chess data</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Personality and Individual Differences</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="347" to="363" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Linking extreme precocity and adult eminence: a study of eight prodigies at international chess</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13598130802503991</idno>
+		<ptr target="http://dx.doi.org/10.1080/13598130802503991" />
+	</analytic>
+	<monogr>
+		<title level="m">High Ability Studies</title>
+				<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="117" to="130" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Individual differences in expertise development over decades in a complex intellectual domain</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+		<idno type="DOI">10.3758/mc.37.2.194</idno>
+		<ptr target="http://dx.doi.org/10.3758/mc.37.2.194" />
+	</analytic>
+	<monogr>
+		<title level="j">Memory &amp; Cognition</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="194" to="209" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Does high-level intellectual performance depend on practice alone? Debunking the Polgar sisters case</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Howard</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cogdev.2011.04.001</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.cogdev.2011.04.001" />
+	</analytic>
+	<monogr>
+		<title level="j">Cognitive Development</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="196" to="202" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">The g factor. The science of mental ability</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Jensen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Praeger Publishers</publisher>
+			<pubPlace>Westport, CT</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Study of Mathematically Precocious Youth After 35 Years Uncovering Antecedents for the Development of Math-Science Expertise</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lubinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Benbow</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1745-6916.2006.00019.x</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1745-6916.2006.00019.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Perspectives on Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="316" to="345" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Deliberate Practice Is Necessary but Not Sufficient to Explain Individual Differences in Piano Sight-Reading Skill: The Role of Working Memory Capacity</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Meinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Z</forename><surname>Hambrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0956797610373933</idno>
+		<ptr target="http://dx.doi.org/10.1177/0956797610373933" />
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="914" to="919" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Basic Information Processing and the Psychophysiology of Intelligence</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Neubauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fink</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cognition and Intelligence</title>
+				<editor>
+			<persName><forename type="first">R</forename><surname>Sternberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Pretz</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Intelligence: new findings and theoretical developments</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Nisbett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Aronson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dickens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Flynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Halpern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Psychologist</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">130</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Perceptual Automaticity in Expert Chess Players: Parallel Encoding of Chess Relations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Reingold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Charness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Schultetus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Stampe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychonomic Bulletin &amp; Review</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="504" to="510" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Recent Advances in Expertise Research</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M J P</forename><surname>Rikers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Paas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="145" to="149" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Working memory in chess</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fearnyhough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Henson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory &amp; Cognition</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="93" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Beyond the Threshold Hypothesis: Even Among the Gifted and Top Math/Science Graduate Students, Cognitive Abilities, Vocational Interests, and Lifestyle Preferences Matter for Career Choice, Performance, and Persistence</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smeets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lubinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Benbow</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0963721410391442</idno>
+		<ptr target="http://dx.doi.org/10.1177/0963721410391442" />
+	</analytic>
+	<monogr>
+		<title level="j">Current Directions in Psychological Science</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="346" to="351" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Chess Players Intake of Task-Relevant Cues</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saariluoma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory &amp; Cognition</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="385" to="391" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Chess Players Search for Task Relevant Cues -Are Chunks Relevant</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saariluoma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Visual Search</title>
+		<imprint>
+			<biblScope unit="page" from="115" to="121" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Visuospatial and Articulatory Interference in Chess Players Information Intake</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saariluoma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Cognitive Psychology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="89" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Apperception and imagery in blindfold chess</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Saariluoma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kalakoski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memory</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="67" to="90" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Schmidt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hunter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="262" to="274" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The impact of expertise on performance: Illustrations from developmental research on memory and sports</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">High Ability Studies</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="7" to="18" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Innate talent or deliberate practice as determinants of exceptional performance: Are we asking the right question?</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavioral and Brain Sciences</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">03</biblScope>
+			<biblScope unit="page" from="423" to="424" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Expertise, Aptitude, and Strategic Remembering</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Bjorklund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="461" to="473" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">The effects of expertise and IQ on children&apos;s memory: When knowledge is, and when it is not enough</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Bjorklund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Maier-Bruckner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Behavioral Development</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="773" to="796" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Domain-Specific Knowledge and Memory Performance. A Comparison of High-and Low-Aptitude Children</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Korkel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Weinert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Educational Psychology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="306" to="312" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Chase</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Skill in Chess</title>
+				<imprint>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="394" to="403" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Genieblitze und Blackouts: Der Spiegel testete Intelligenz, Gedächtnis, und Schachkunst Garri Kasparows. [Strokes of genius and blackouts: Der Spiegel tests the intelligence, memory</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spiegel</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note>and chess ability of Garry Kasparov</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Der</forename><surname>Spiegel</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="126" to="140" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Die Bewältigung neuer Anforderungen: Eine allgemeine oder eine inhaltsspezifische Intelligenzleistung</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stern</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fortschritte der differentiellen Psychologie und psychologischen Diagnostik</title>
+				<editor>
+			<persName><forename type="first">B</forename><surname>Bartussek</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Amelang</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Göttingen</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hogrefe</publisher>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="page" from="333" to="344" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Planning Abilities and Chess: a Comparison of Chess and Non-Chess Players on the Tower of London Task</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Unterrainer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Kaller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Halsband</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rahm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="299" to="311" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Revising Superior Planning Performance in Chess Players: The Impact of Time Restriction and Motivation Aspects</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Unterrainer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Kaller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Leonhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rahm</surname></persName>
+		</author>
+		<idno type="DOI">10.5406/amerjpsyc.124.2.0213</idno>
+		<ptr target="http://dx.doi.org/10.5406/amerjpsyc.124.2.0213" />
+	</analytic>
+	<monogr>
+		<title level="j">The American Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="213" to="225" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">An ecological theory of expertise effects in memory recall</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Vicente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="57" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Relative Importance of Domain Knowledge and Overall Aptitude on Acquisition of Domain-Related Information</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cognition and Instruktion</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="42" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">abilities of chess players</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Waters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Gobet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Leyden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Psychology</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="557" to="565" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

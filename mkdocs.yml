@@ -1,0 +1,13 @@
+
+site_name: Opendata
+site_description: Documentation for my Grobid project
+repo_url: https://github.com/Atlas1225/OpenData
+
+nav:
+  - Home: docs/index.md
+  - README: README.md
+  - rationale: rationale.md
+
+theme:
+  name: readthedocs
+

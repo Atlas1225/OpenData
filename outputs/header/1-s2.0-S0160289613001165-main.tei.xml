@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The role of intelligence for performance in the prototypical expertise domain of chess</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2013-08-27">27 August 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Roland</forename><forename type="middle">H</forename><surname>Grabner</surname></persName>
+							<email>grabner@psych.uni-goettingen.de.</email>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Department of Educational Psychology</orgName>
+								<orgName type="department" key="dep2">Institute of Psychology</orgName>
+								<orgName type="institution">Georg-August-University of Göttingen</orgName>
+								<address>
+									<addrLine>Waldweg 26</addrLine>
+									<postCode>D-37073</postCode>
+									<settlement>Göttingen</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The role of intelligence for performance in the prototypical expertise domain of chess</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2013-08-27">27 August 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">B22E34D23B70A9F04BB84B2168782AAC</idno>
+					<idno type="DOI">10.1016/j.intell.2013.07.023</idno>
+					<note type="submission">Received 21 May 2013 Received in revised form 20 June 2013 Accepted 27 July 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T12:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Expertise Chess ELO Expert-novice paradigm Playing strength</keywords>
+			</textClass>
+			<abstract>
+				<p>Prominent expertise researchers have repeatedly emphasized that individual differences in general cognitive abilities, in particular intelligence, do not play any role for the attained level of expertise in a given domain. This strong claim is opposed with the current body of evidence on the relevance of intelligence for expert performance in the prototypical expertise domain of chess. Although the findings are not unequivocal, presumably due to methodological aspects, several studies employing psychometric tests of intelligence have revealed that expert chess players display significantly higher intelligence than controls and that their playing strength is related to their intelligence level. In addition, by using the extended expert-novice paradigm (comparing experts with novices of different intelligence levels) it has been found that both, expertise and intelligence impact on the performance in expertise-related tasks. These studies suggest that expert chess play does not stand in isolation from intelligence and could stimulate interdisciplinary research on the role of general cognitive abilities in expertise development.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

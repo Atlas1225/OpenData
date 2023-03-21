@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve"
+	xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Artificial intelligence in medicine</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown">
+					<licence/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName>
+								<forename type="first">A</forename>
+								<forename type="middle">N</forename>
+								<surname>Ramesh</surname>
+							</persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">C</forename>
+								<surname>Kambhampati</surname>
+							</persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Computer Science</orgName>
+								<orgName type="institution">University of Hull</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName>
+								<forename type="first">Jrt</forename>
+								<surname>Monson</surname>
+							</persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName>
+								<forename type="first">P</forename>
+								<forename type="middle">J</forename>
+								<surname>Drew</surname>
+							</persName>
+							<email>p.j.drew@hull.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Mr PJ Drew</orgName>
+								<orgName type="institution" key="instit1">Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<postCode>HU16 5JQ</postCode>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Artificial intelligence in medicine</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2A2EDEFFEC0E181815F8539A7D6DF3D0</idno>
+					<idno type="DOI">10.1308/147870804290</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T12:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Artificial intelligence -Neural networks (computer)</keywords>
+			</textClass>
+			<abstract>
+				<p>Introduction: Artificial intelligence is a branch of computer science capable of analysing complex medical data. Their potential to exploit meaningful relationship with in a data set can be used in the diagnosis, treatment and predicting outcome in many clinical scenarios. Methods: Medline and internet searches were carried out using the keywords &apos;artificial intelligence&apos; and &apos;neural networks (computer)&apos;. Further references were obtained by crossreferencing from key articles. An overview of different artificial intelligent techniques is presented in this paper along with the review of important clinical applications. Results: The proficiency of artificial intelligent techniques has been explored in almost every field of medicine. Artificial neural network was the most commonly used analytical tool whilst other artificial intelligent techniques such as fuzzy expert systems, evolutionary computation and hybrid intelligent systems have all been used in different clinical settings. Discussion: Artificial intelligence techniques have the potential to be applied in almost every field of medicine. There is need for further clinical trials which are appropriately designed before these emergent techniques find application in the real clinical setting.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

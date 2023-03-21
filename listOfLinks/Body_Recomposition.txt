@@ -1,0 +1,1646 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><roleName>MS, ATC, CISSN</roleName><forename type="first">Christopher</forename><surname>Barakat</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Jeremy</forename><surname>Pearson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DSc, MBA, ATC, CSCS, CISSN</roleName><forename type="first">Guillermo</forename><surname>Escalante</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD, CSCS, FISSN</roleName><forename type="first">Bill</forename><surname>Campbell</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Kinesiology</orgName>
+								<orgName type="institution">California State University</orgName>
+								<address>
+									<settlement>San Bernardino</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Performance &amp; Physique Enhancement Laboratory</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Eduardo</forename><forename type="middle">O</forename><surname>De Souza</surname></persName>
+							<email>edesouza@ut.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Body Recomposition: Can Trained Individuals Build Muscle and Lose Fat at the Same Time?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E13A8CDDBF2775547F1793FB481EF2DB</idno>
+				</biblStruct>
+			
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Similarity in adaptations to high-resistance circuit vs. traditional strength training in resistance-trained men</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Alcaraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perez-Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chavarrias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Blazevich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2519" to="2527"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Reductions in whole-body fat mass but not increases in lean mass predict changes in cardiometabolic health indices with exercise training among weight-stable adults</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Amankwaah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Res</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="63" to="69"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A high protein diet (3.4 g/kg/d) combined with a heavy resistance training program improves body composition in healthy trained men and women-A follow-up investigation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellerbroek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Silver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">39</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">on body composition in resistance-trained individuals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Peacock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellerbroek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fromhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Silver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>The effects of consuming a high protein diet</note>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effects of concurrent exercise protocols on strength, aerobic power, flexibility and body composition</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Faraji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Moghadam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Samadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kinesiology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="155" to="162"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increased protein intake and meal frequency reduces abdominal fat during energy balance and energy deficit</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Arciero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ormsbee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Gentile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obesity</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1357" to="1366"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Areta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">591</biblScope>
+			<biblScope unit="page" from="2319" to="2331"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Interdevice variability in percent fat estimates using the BOD POD</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Ball</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="996" to="1001"/>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b8">
+	<analytic>
+		<title/>
+		<idno>nsca-scj.com</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Strength and Conditioning Journal | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Seven-site versus threesite method of body composition using BodyMetrix ultrasound compared to dualenergy X-ray absorptiometry</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Baranauskas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juvancic</forename><forename type="middle">-</forename><surname>Heltzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Phys Funct Imaging</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="317" to="321"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Testosterone dose-response relationships in healthy young men</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhasin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Woodhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Casaburi</surname></persName>
+		</author>
+		<idno>1172-E1181</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Effect of protein overfeeding on energy expenditure measured in a metabolic chamber</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Jonge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="496" to="505"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The role of FFM accumulation and skeletal muscle architecture in powerlifting performance</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Brechue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="327" to="336"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of high versus low protein intake on body composition and maximal strength in aspiring female physique athletes engaging in an 8-week resistance training program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Conlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="580" to="585"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">International society of sports nutrition position stand: Protein and exercise</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kreider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ziegenfuss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Training volume, not frequency, indicative of maximal strength adaptations to resistance training</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Gai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1207" to="1213"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The effect of whey isolate and resistance training on strength, body composition, and plasma glutamine</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Cribb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="494" to="509"/>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sleep and muscle recovery: Endocrinological and molecular basis for a new and promising hypothesis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dattilo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hkm</forename><surname>Antunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Medeiros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="220" to="222"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Comparing DXA and air displacement plethysmography to assess body composition of male collegiate hockey players</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Delisle-Houde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rer</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Insogna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="474" to="478"/>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Adipose tissue in muscle: A novel depot similar in size to visceral adipose tissue</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kuznia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heshka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="903" to="910"/>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Dietary intake, body composition, and menstrual cycle changes during competition preparation and recovery in a drug-free figure competitor: A case study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Halliday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Loenneke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Davy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutrients</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">740</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effects of graded whey supplementation during extreme-volume resistance training</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Haun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Vann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Mobley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Nutr</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">84</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A critical evaluation of the biological construct skeletal muscle hypertrophy: Size matters but so does the measurement</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Haun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Vann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Physiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">247</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Evidence-based recommendations for natural bodybuilding contest preparation: Nutrition and supplementation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aragon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">20</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Recommendations for natural bodybuilding contest preparation: Resistance and cardiovascular training</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aragon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cronin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Schoenfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Med Phys Fitness</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="164" to="178"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A systematic review of dietary protein during caloric restriction in resistance trained lean athletes: A case for higher intakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Rowlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="127" to="138"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Testosterone action on skeletal muscle</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhasin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Clin Nutr Metab Care</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1686" to="1691"/>
+			<date type="published" when="1995">2004. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Med Sci Sports Exerc</note>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Physiological implications of preparing for a natural male bodybuilding competition</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EJSS</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="619" to="629"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Relationship of body fat with insulin resistance and cardiometabolic risk factors among normal glucose-tolerant subjects</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deepa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gokulakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Monickaraj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Postgrad Med</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">184</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Insufficient sleep undermines dietary efforts to reduce adiposity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Nedeltcheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kilkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Imperial</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Schoeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Penev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="435" to="441"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effects of periodic and continued resistance training on muscle CSA and strength in previously untrained men</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ogasawara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakamaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Physiol Funct Imaging</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="399" to="404"/>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Case study: Unfavorable but transient physiological changes during contest preparation in a drug-free male bodybuilder</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pardue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Sprod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="550" to="559"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Applications of the dose-response for muscular strength development: A review of meta-analytic efficacy and reliability for designing training prescription</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rhea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Alvar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">950</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Case study: The effect of 32 Weeks of figure-contest preparation on a self-proclaimed drug-free female's lean body and bone mass</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petrizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Dimenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wygand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Otto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="543" to="549"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ultrasound techniques applied to body fat measurement in male and female athletes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Filliard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bocquet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Athl Train</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="142" to="147"/>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Similar strength and power adaptations between two different velocity-based training regimens in collegiate female volleyball players</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Rauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Loturco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cheesman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">163</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The effect of partial sleep deprivation on weight-lifting performance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piercy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ergonomics</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="107" to="115"/>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Nutritional recommendations for physique athletes</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kinet</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="79" to="108"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Psychophysiological tracking of a female physique competitor through competition preparation</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Rohrig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kanzenbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Exerc Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">301</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Natural bodybuilding competition preparation and recovery: A 12-month case study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rossow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Fahs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Loenneke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="582" to="592"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The compatibility of concurrent high intensity interval training and resistance training for muscular strength and hypertrophy: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sabag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Najafi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Michael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2472" to="2483"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The effect of sleep restriction, with or without high-intensity interval exercise, on myofibrillar protein synthesis in healthy young men</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Saner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mj-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Pitchford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">598</biblScope>
+			<biblScope unit="page" from="1523" to="1536"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ogborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Krieger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1073" to="1082"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Correlations of anthropometric and body composition variables with the performance of young elite weightlifters</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siahkouhian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hedayatneja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kinet</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="125" to="131"/>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Is an energy surplus required to maximize skeletal muscle hypertrophy associated with resistance training</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Dieter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Marsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Nutr</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">131</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">b-hydroxy-b-methylbutyrate (HMB) supplementation does not affect changes in strength or body composition during resistance training in trained men</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Logan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="384" to="396"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Validity and reliability of a 4-compartment body composition model using dual energy x-ray absorptiometry-derived body volume</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Smith-Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Mock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="825" to="830"/>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Weight loss in amateur wrestlers and its effect on serum testosterone levels</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Lanese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Malarkey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="3337" to="3338"/>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Adaptations of leptin, ghrelin or insulin during weight loss as predictors of weight regain: A review of current literature</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Strohacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mccaffery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Maclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="388" to="396"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Influence of age and gender on fat mass, fat-free mass and skeletal muscle mass among Australian adults: The Australian Diabetes, Obesity and Lifestyle study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Strugnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Daly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr Health Aging</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">540</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Longitudinal development of anthropometric and physical characteristics within academy rugby league players</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Till</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darrall-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Emmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cooke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1713" to="1722"/>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Body fat gain and loss differentially influence validity of dualenergy x-ray absorptiometry and multifrequency bioelectrical impedance analysis during simultaneous fat-free mass accretion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Tinsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Res</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="44" to="55"/>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Metabolic adaptation to weight loss: Implications for the athlete</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Smith-Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Norton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="7"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Test-retest reliability of the bod pod: The effect of multiple assessments</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Tucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lecheminant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Percept Mot Skills</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="563" to="570"/>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Influence of sleep restriction on weight loss outcomes associated with caloric restriction</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Bowyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Youngstedt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1" to="11"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The effects of pre-and post-exercise whey vs. Casein protein consumption on body composition and performance measures in collegiate female athletes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Wilborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Outlaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="74" to="79"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Weight gaining through proper nutrition and exercise</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nutrition for Fitness and Sport</title>
+				<meeting><address><addrLine>Rodgers C, ed. Dubuque, IA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wm C Brown</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">304</biblScope>
+		</imprint>
+	</monogr>
+	<note>rd ed</note>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Improved 4-compartment body-composition model for a clinically accessible measure of total body protein</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Duewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="497" to="504"/>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Comparison of 2 weekly-equalized volume resistancetraining routines using different frequencies on body composition and performance in trained males</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Karsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Larumbe-Zabala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seijo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Naclerio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Physiol Nutr Metab</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="475" to="481"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Preseason body composition adaptations in elite white and polynesian rugby union athletes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zemski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Broad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="9" to="17"/>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b60">
+	<analytic>
+		<title/>
+		<idno>nsca-scj.com</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Strength and Conditioning Journal | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				
+

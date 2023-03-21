@@ -1,0 +1,1888 @@
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ramesh</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Kambhampati</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Computer Science</orgName>
+								<orgName type="institution">University of Hull</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jrt</forename><surname>Monson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Drew</surname></persName>
+							<email>p.j.drew@hull.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">The University of Hull Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="department">Mr PJ Drew</orgName>
+								<orgName type="institution" key="instit1">Academic Surgical Unit</orgName>
+								<orgName type="institution" key="instit2">Castle Hill Hospital</orgName>
+								<address>
+									<postCode>HU16 5JQ</postCode>
+									<settlement>Cottingham</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Artificial intelligence in medicine</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2A2EDEFFEC0E181815F8539A7D6DF3D0</idno>
+					<idno type="DOI">10.1308/147870804290</idno>
+				</biblStruct>
+			
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Artificial intelligence</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Shapiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Encyclopedia of Artificial Intelligence</title>
+		<editor>Shapiro SC.</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="1992">1992</date>
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Computing machinery and intelligence</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Turing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mind</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="433" to="460"/>
+			<date type="published" when="1950">1950</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Medical progress -medical electronics</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Lusted</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">252</biblScope>
+			<biblScope unit="page" from="580" to="585"/>
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Reasoning foundations of medical diagnosis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Ledley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Lusted</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="9" to="21"/>
+			<date type="published" when="1959">1959</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The diagnosis of acute abdominal pain with computer analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Gunn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J R Coll Surg Edinb</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="170" to="172"/>
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On the use and usefulness of fuzzy sets in medical AI</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Steimann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="131" to="137"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A logical calculus of the ideas imminent in nervous activity</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Mcculloch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pitts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull Math Biophys</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="115" to="133"/>
+			<date type="published" when="1943">1943</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The Perceptron: a probabilistic model for information storage and organization in the brain</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rosenblatt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychol Rev</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="386" to="408"/>
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Beyond regression: new tools for prediction and analysis in the behavioral sciences</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Werbos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+		<respStmt>
+			<orgName>Harvard University</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD Thesis</note>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Neural networks and physical systems with emergent collective computational abilities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Hopfield</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="2554" to="2558"/>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Universal approximation using radial-basis-function networks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Park</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">W</forename><surname>Sandberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Comput</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="246" to="257"/>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The ART of adaptive pattern recognition by a self-organizing neural network</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Carpenter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Grossberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Computer</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="77" to="88"/>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Use of an artificial neural network for data analysis in clinical decision-making: the diagnosis of acute coronary occlusion</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Baxt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Comput</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="480" to="489"/>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Prospective validation of artificial neural network trained to identify acute myocardial infarction</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Baxt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Skora</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="12" to="15"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effectiveness of ProstAsure TM in detecting prostate cancer (PCa) and benign prostatic hyperplasia (BPH) in men age 50 and older</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Stamey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Barnhill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Urol</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page">436A</biblScope>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Diagnosis of acute appendicitis in two databases. Evaluation of different neighborhoods with an LVQ neural network</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pesonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ohmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Eskelinen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Juhola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Inf Med</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="59" to="63"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The prediction of common bile duct stones using a neural network</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Golub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cantu</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Coll Surg</title>
+		<imprint>
+			<biblScope unit="volume">187</biblScope>
+			<biblScope unit="page" from="584" to="590"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Artificial neural network analysis of noisy visual field data in glaucoma</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Henson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Spenceley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="99" to="113"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">A comparison of neural network and other pattern recognition approaches to the diagnosis of low back disorders</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Bounds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Lloyd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Mathew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neural Networks</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="583" to="591"/>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Neural network processing can provide means to catch errors that slip through human screening of pap smears</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Boon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Kok</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diagn Cytopathol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="411" to="416"/>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Application of the fuzzy ARTMAP neural network model to medical pattern classification tasks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Downs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Kennedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Cross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="403" to="428"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Potential of the back propagation neural network in the discrimination of benign from malignant gastric cells</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Karakitsos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Stergiou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pouliakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tzivras</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Archimandritis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Liossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal Quant Cytol Histol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="245" to="250"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Potential of the back propagation neural network in the morphologic examination of thyroid lesions</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Karakitsos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Cochand-Priollet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Guillausseau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pouliakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal Quant Cytol Histol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="495" to="500"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Performance of a computer simulated neural network trained to categorise normal, premalignant and malignant oral smears</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Brickley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Cowpe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Shepherd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Pathol Med</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="424" to="428"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Hemstreet 3rd GP. Neural net-based identification of cells expressing the p300 tumor-related antigen using fluorescence image analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Bonner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ashenayi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Veltri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cytometry</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="36" to="42"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Neural networks as an aid in the diagnosis of lymphocyte-rich effusions</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Truong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Walts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Marchevsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anal RAMESH Ann R Coll Surg Engl</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="48" to="54"/>
+			<date type="published" when="1995">2004. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Quant Cytol Histol</note>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks in chest radiography: application to the differential diagnosis of interstitial lung disease</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ashizawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Macmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Vyborny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katsuragawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Doi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acad Radiol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="2" to="9"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sonographic prediction of malignancy in adnexal masses using an artificial neural network</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tailor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jurkovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H</forename><surname>Bourne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Collins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Obstet Gynaecol</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="21" to="30"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Usefulness of an artificial neural network for differentiating benign from malignant pulmonary nodules on high-resolution CT: evaluation with receiver operating characteristic analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Watanabe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Katsuragawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Roentgenol</title>
+		<imprint>
+			<biblScope unit="volume">178</biblScope>
+			<biblScope unit="page" from="657" to="663"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Neural network-based segmentation of dynamic MR mammographic images</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lucht</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Delorme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Brix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Magn Reson Imaging</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="147" to="154"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Neural networks in ventilation-perfusion imaging</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Radiology</title>
+		<imprint>
+			<biblScope unit="volume">198</biblScope>
+			<biblScope unit="page" from="699" to="706"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks for the electrocardiographic diagnosis of healed myocardial infarction</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Heden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Edenbrandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Haisty</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Pahlm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="5" to="8"/>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks for the diagnosis of atrial fibrillation</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Devine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Macfarlane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Biol Eng Comput</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="615" to="619"/>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Evaluation of new self-learning techniques for the generation of criteria for differentiation of wide-QRS tachycardia in supraventricular tachycardia and ventricular tachycardia</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Dassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Karthaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Talmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Mulleneers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Smeets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Wellens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="103" to="108"/>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">An artificial neural network approach to diagnosing epilepsy using lateralized bursts of theta EEGs</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Walczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Nowack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Syst</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="9" to="20"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Sleep stage scoring using the neural network model: comparison between visual and automatic analysis in normal subjects and patients</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Schaltenbrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lengelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toussaint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Luthringer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jacqmin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="26" to="35"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Neural network analysis of the EMG interference pattern</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Abel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Zacharia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Eng Phys</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="12" to="17"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The application of an artificial neural network to Doppler ultrasound waveforms for the classification of arterial disease</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Taylor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Monit Comput</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="85" to="91"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Self-organising discovery, recognition and prediction of haemodynamic patterns in the intensive care unit</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Spencer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Lessard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Davilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Etter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Biol Eng Comput</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="117" to="123"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks improve the accuracy of cancer survival prediction</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rosen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Henson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Weinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">E</forename><surname>Harrell</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="857" to="862"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Predicting response to adjuvant and radiation therapy in patients with early stage breast carcinoma</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hoang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Iglehart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Marks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="874" to="877"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks applied to outcome prediction for colorectal cancer patients in separate institutions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bottaci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Drew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Hartley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">350</biblScope>
+			<biblScope unit="page" from="469" to="472"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Artificial neural networks and logistic regression as tools for prediction of survival in patients with stages I and II non-small cell lung cancer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Marchevsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Patel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Wiley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stephenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mod Pathol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="618" to="625"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A neural network predicts progression for men with Gleason score 3+4 versus 4+3 tumors after radical prostatectomy</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Epstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Walsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Urology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="994" to="999"/>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Prediction of outcome in critically ill patients using artificial neural network synthesised by genetic algorithm</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dybowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Weler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">347</biblScope>
+			<biblScope unit="page" from="1146" to="1150"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Fuzzy sets</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Zadeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inf Control</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="338" to="353"/>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Biological application of the theory of fuzzy sets and systems</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Zadeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the International Symposium on Biocybernetics of the Central Nervous System</title>
+				<meeting>the International Symposium on Biocybernetics of the Central Nervous System<address><addrLine>Boston</addrLine></address></meeting>
+		<imprint>
+			<publisher>Little Brown</publisher>
+			<date type="published" when="1969">1969</date>
+			<biblScope unit="page" from="199" to="212"/>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Fuzzy-logic based tumor-marker profiles improved sensitivity in the diagnosis of lung cancer</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bitterlich</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Hg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Morr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eigenbrodt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Clin Oncol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="145" to="151"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Acute leukemia diagnosis aid using multicriteria fuzzy assignment methodology</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Belacel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vincke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Scheiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Boulassel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Methods Programs Biomed</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="145" to="151"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Nonparametric techniques to extract fuzzy rules for breast cancer diagnosis problem</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sarkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">Y</forename><surname>Leong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medinfo</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1394" to="1398"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Improved sensitivity of fuzzy logic based tumor marker profiles for diagnosis of pancreatic carcinoma versus benign pancreatic disease</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Halm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Rohde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Klapdor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Reith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Thiede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Etzrodt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="4957" to="4960"/>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Breast ultrasonography: computer-aided diagnosis using fuzzy inference</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Koyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Obata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Shimamoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ishigaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ishii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Isomoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Ultrasound Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="665" to="672"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Fuzzy logic algorithm for quantitative tissue characterization of diffuse liver diseases from ultrasound images</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Badawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Derbala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Youssef</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Med Inf</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="135" to="147"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Pattern recognition system for focal liver lesions using 'crisp' and 'fuzzy' classifiers</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Eisele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Klose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Stauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brenner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ameling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Invest Radiol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="6" to="10"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Automatic segmentation of non-enhancing brain tumors in magnetic resonance images</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Fletcher-Heath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Goldgof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Murtagh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="43" to="63"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Assessment of nodal involvement and survival analysis in breast cancer patients using image cytometric data: statistical, neural network and fuzzy approaches</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Seker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Odetayo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Petrovic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rng</forename><surname>Naguib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bartoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Alasio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="433" to="438"/>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Fuzzy control of mean arterial pressure in postsurgical patients with sodium nitroprusside infusion</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ying</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mceachern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Eddleman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans Biomedical Eng</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1060" to="1070"/>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Self-learning fuzzy control of atracurium-induced neuromuscular block during surgery</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Edwards</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Biol Engin Comput</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="498" to="503"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b58">
+	<monogr>
+		<title level="m" type="main">Adaptation in Natural and Artificial Systems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Holland</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1975</date>
+			<publisher>University of Michigan Press</publisher>
+			<pubPlace>Ann Arbor, MI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Comparison of a genetic algorithm neural network with logistic regression for predicting outcome after surgery for patients with nonsmall cell lung carcinoma</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Jefferson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pendleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Lucas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Horan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="1338" to="1342"/>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Predicting survival in malignant skin melanoma using Bayesian networks automatically induced by genetic algorithms. An empirical comparison between different approaches</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sierra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Larranaga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="215" to="230"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b61">
+	<analytic>
+		<title level="a" type="main">A genetic algorithm to improve a neural network to predict a patient's response to warfarin</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Narayanan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Lucas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Inf Med</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="55" to="58"/>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Computerized analysis of mammography microcalcifications in morphological and texture feature spaces</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sahiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Phys</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2007" to="2019"/>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Feature extraction for MRI segmentation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Velthuizen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Clarke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neuroimaging</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="85" to="90"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Feature selection for optimized skin tumor recognition using genetic algorithms</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Handels</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kreusch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Poppl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="283" to="297"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b65">
+	<analytic>
+		<title level="a" type="main">A fuzzy-genetic approach to breast cancer diagnosis</title>
+		<author>
+			<persName><surname>Pena-Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sipper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="131" to="155"/>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b66">
+	<analytic>
+		<title level="a" type="main">A computer-aided diagnosis system for digital mammograms based on fuzzy-neural and feature extraction techniques</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Verma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zakos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans Biomedical Eng</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="46" to="54"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b67">
+	<analytic>
+		<title level="a" type="main">A neuro-fuzzy algorithm for diagnosis of coronary artery stenosis</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Sztandera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Goodenday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Cios</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comput Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="97" to="111"/>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Neurofuzzy systems for computer aided myocardial viability assessment</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Behloul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Lelieveldt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boudraa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Janier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Revel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Reiber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans Med Imaging</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1302" to="1313"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+
+
+<biblStruct xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Neuro-fuzzy closed-loop control of depth of anaesthesia</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Artif Intell Med</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="185" to="191"/>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				
+

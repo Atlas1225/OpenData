@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Body Recomposition: Can Trained Individuals Build Muscle and Lose Fat at the Same Time?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MS, ATC, CISSN</roleName><forename type="first">Christopher</forename><surname>Barakat</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Jeremy</forename><surname>Pearson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DSc, MBA, ATC, CSCS, CISSN</roleName><forename type="first">Guillermo</forename><surname>Escalante</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD, CSCS, FISSN</roleName><forename type="first">Bill</forename><surname>Campbell</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Kinesiology</orgName>
+								<orgName type="institution">California State University</orgName>
+								<address>
+									<settlement>San Bernardino</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Performance &amp; Physique Enhancement Laboratory</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Eduardo</forename><forename type="middle">O</forename><surname>De Souza</surname></persName>
+						</author>
+						<title level="a" type="main">Body Recomposition: Can Trained Individuals Build Muscle and Lose Fat at the Same Time?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E13A8CDDBF2775547F1793FB481EF2DB</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T12:18+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>

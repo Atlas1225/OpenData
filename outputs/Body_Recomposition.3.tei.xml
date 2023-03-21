@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Body Recomposition: Can Trained Individuals Build Muscle and Lose Fat at the Same Time?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MS, ATC, CISSN</roleName><forename type="first">Christopher</forename><surname>Barakat</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><forename type="first">Jeremy</forename><surname>Pearson</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>DSc, MBA, ATC, CSCS, CISSN</roleName><forename type="first">Guillermo</forename><surname>Escalante</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>PhD, CSCS, FISSN</roleName><forename type="first">Bill</forename><surname>Campbell</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Kinesiology</orgName>
+								<orgName type="institution">California State University</orgName>
+								<address>
+									<settlement>San Bernardino</settlement>
+									<region>California</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Performance &amp; Physique Enhancement Laboratory</orgName>
+								<orgName type="institution">University of South Florida</orgName>
+								<address>
+									<settlement>Tampa</settlement>
+									<region>Florida</region>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><roleName>PhD</roleName><forename type="first">Eduardo</forename><forename type="middle">O</forename><surname>De Souza</surname></persName>
+							<email>edesouza@ut.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health Sciences and Human Performance</orgName>
+								<orgName type="institution">The University of Tampa</orgName>
+								<address>
+									<settlement>Tampa, Florida</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Body Recomposition: Can Trained Individuals Build Muscle and Lose Fat at the Same Time?</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">E13A8CDDBF2775547F1793FB481EF2DB</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T11:37+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>fat loss</term>
+					<term>fat-free mass</term>
+					<term>muscle hypertrophy</term>
+					<term>aesthetics</term>
+					<term>bodybuilding</term>
+					<term>body composition</term>
+					<term>physique</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This is an open-access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License 4.0 (CCBY-NC-ND), where it is permissible to download and share the work provided it is properly cited. The work cannot be changed in any way or used commercially without permission from the journal.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>A common goal among active individuals is to improve their body composition by increasing skeletal muscle mass and decreasing fat mass (FM). It is well understood that these positive body composition changes have a multitude of health benefits <ref type="bibr" target="#b1">(2,</ref><ref type="bibr" target="#b28">45,</ref><ref type="bibr" target="#b49">66)</ref> and have also been shown to improve athletic performance <ref type="bibr" target="#b12">(12,</ref><ref type="bibr" target="#b43">60)</ref>. Among physique competitors (e.g., individuals who compete in bodybuilding, figure, bikini, etc.), increasing muscle and losing body fat is also of critical importance to be successful in their sport. Despite the lack of standardized terminology, practitioners have described this adaptive phenomenon in which muscle mass is gained and FM is lost concomitantly as body recomposition.</p><p>It is generally thought that body recomposition occurs mainly in both the untrained/novice and overweight/obese populations. When examining the literature, this dogma seems logical because training age and also the novelty of initiating a resistance training (RT) program have been shown to directly impact the rate of muscle mass accrual <ref type="bibr">(30,</ref><ref type="bibr" target="#b32">49,</ref><ref type="bibr" target="#b50">67)</ref>. Within RT programs, practitioners can manipulate training variables (e.g., intensity, volume, exercise selection, etc.) as a means to enhance the muscle hypertrophic stimulus. Moreover, aerobic exercise is commonly implemented within training regimens to decrease FM <ref type="bibr" target="#b4">(5)</ref>. In addition, research has shown that the combination of both RT and aerobic exercise (i.e., concurrent training) can be an effective approach to optimize body recomposition <ref type="bibr" target="#b4">(5,</ref><ref type="bibr" target="#b40">57)</ref>. Thus, practitioners, coaches, and trainers commonly recommend concurrent training for individuals aiming to gain muscle and lose fat <ref type="bibr" target="#b24">(24)</ref>. Most importantly, despite the zeitgeist that well-trained individuals cannot gain muscle mass and lose fat simultaneously, there have been many chronic randomized controlled trials conducted in resistance-trained individuals that have demonstrated body recomposition <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b16">16,</ref><ref type="bibr" target="#b21">21,</ref><ref type="bibr">36,</ref><ref type="bibr" target="#b35">52,</ref><ref type="bibr" target="#b45">62,</ref><ref type="bibr" target="#b55">72)</ref>.</p><p>In addition, dietary intake (i.e., energy balance, macronutrients, etc.) has been shown to influence body composition alone <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b11">11,</ref><ref type="bibr" target="#b23">23,</ref><ref type="bibr" target="#b25">25,</ref><ref type="bibr">28,</ref><ref type="bibr">31,</ref><ref type="bibr" target="#b37">54)</ref>. Moreover, when combined with RT, body recomposition is potentiated to a greater degree <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b21">21)</ref>. For example, protein intake is commonly manipulated among individuals seeking to maximize RT outcomes. There is evidence exhibiting recomposition effects when individuals are engaged in RT and are consuming a high dietary protein intake (i.e., .2.0 g/kg/d) <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b21">21)</ref>. Interestingly, there are also data demonstrating that reductions in FM can occur in well-trained subjects with hypercaloric intakes, specifically when the surplus is due to an increase in protein <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b22">22)</ref>. Collectively, those studies suggest that evidence-based nutritional strategies can further enhance body recomposition in trained individuals.</p><p>Physique competitors carefully manipulate both their training and nutritional programs to maximize muscle mass and decrease FM to present their most aesthetic physique. During the "off-season," they strive to accumulate as much muscle mass as possible, while minimizing FM gained in a hypercaloric state <ref type="bibr" target="#b24">(24)</ref>. However, most case studies on physique competitors through contest preparation do not demonstrate a recomposition effect <ref type="bibr">(33,</ref><ref type="bibr" target="#b31">48,</ref><ref type="bibr" target="#b39">56)</ref>. During this phase, competitors restrict their caloric intake, and increase energy expenditure to attain extremely low levels of body fat. This hypoenergetic state has been shown to negatively impact many variables that can affect body recomposition such as sleep, hormones, and metabolism <ref type="bibr">(35,</ref><ref type="bibr" target="#b29">46,</ref><ref type="bibr" target="#b52">69,</ref><ref type="bibr" target="#b54">71)</ref>. Therefore, these intense physical demands significantly stress the body and make recomposition difficult for this population.</p><p>When analyzing the current literature demonstrating body recomposition in trained individuals, it is important to consider contextual differences between studies (i.e., body composition assessments, training design, duration, nutritional control, etc.) and their potential to impact the outcomes (Tables <ref type="table">1</ref><ref type="table" target="#tab_1">2</ref><ref type="table" target="#tab_2">3</ref><ref type="table" target="#tab_5">4</ref>). Therefore, the purpose of this review is to discuss the existing literature that has reported body recomposition among resistance-trained individuals. Second, we will address the contrasting results reported in the literature among a majority of competitive physique athletes during contest preparation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ESTIMATING BODY COMPOSITION WITH DIFFERENT ASSESSMENTS</head><p>To draw conclusions from each study's results, it is important to understand the methods for assessing body composition, their strengths, weaknesses, and reliability. These assessments rely on different assumptions and vary based on how many compartments it divides an individual's total mass (i.e., 4C, 3C, 2C). Typically, body composition is divided into bone content, lean mass (i.e., muscle, connective tissue, internal organs, etc.), and FM. In addition, it is important to consider that there can be a significant variability/error rate depending on the mode of body composition assessment <ref type="bibr" target="#b7">(8,</ref><ref type="bibr" target="#b22">22,</ref><ref type="bibr" target="#b51">68)</ref>. Furthermore, external factors (for example, hydration status [intracellular versus extracellular], nutritional status [fasted versus fed], etc.) can influence the accuracy of how these assessments quantify fat-free mass (FFM) and FM. It is also important to note that precisely quantifying gains in skeletal muscle tissue can be difficult due to its composition (i.e., ;75% water, ;15-25% protein, ;2-3% glycogen, and ;5% intramuscular triglycerides) <ref type="bibr" target="#b19">(19,</ref><ref type="bibr" target="#b22">22,</ref><ref type="bibr">34)</ref>. Therefore, the goal of this section is to provide a simple overview of the body composition methods used in the studies, presented in Tables <ref type="table" target="#tab_1">2</ref><ref type="table" target="#tab_2">3</ref><ref type="table" target="#tab_5">4</ref>.</p><p>The 4-compartment model (4C) that has been considered the goldstandard assessment divides the body into FM, water, bone mineral content, and residual content <ref type="bibr" target="#b46">(63,</ref><ref type="bibr" target="#b51">68)</ref>. Moreover, the 4C model also allows for estimation of protein content <ref type="bibr" target="#b57">(74)</ref>. However, it is costly and very timeconsuming because 4C uses a variety of laboratorial assessments. Two of these laboratory assessments include magnetic-resonance imaging (MRI) and computed tomography. Recently, the combination of different tools (i.e., DEXA + BIA) has been used to quantify total body volume into 4C.</p><p>Dual-energy x-ray absorptiometry (DEXA) is a 3-compartment model commonly used to monitor and assess changes in body composition. It can distinguish between bone mineral content, FFM, and FM. Furthermore, it can compartmentalize different regions of the body (i.e., trunk, leg, arm), but is unable to discern between specific muscle groups (e.g., quadriceps/hamstrings, biceps/triceps, etc.) <ref type="bibr" target="#b22">(22)</ref>. A recent validation study demonstrated a lower error rate using DEXA for measuring intraindividual, concomitant changes in FFM and FM <ref type="bibr" target="#b51">(68)</ref>. In addition, newer models have been shown to have strong test-retest intraclass correlation coefficients while estimating FFM during whole-body scans (e.g., .0.99) (32). The standard error rate when comparing the criterion MRI to DEXA for estimating body fat percentage is ;1.6%. It is important to note that some of the recomposition results demonstrated in the training/ nutrition literature may be within the standard error rate. Thus, these results must be taken with caution because the magnitude of change in these studies may be due to inherent variation from the measurement method.</p><p>Body composition can also be separated into 2 compartments (e.g., FFM and FM) using BodPod, skinfold calipers, bioelectrical impedance, underwater weighing, and ultrasound techniques. Air-displacement plethysmography (BodPod) is an apparatus that estimates body composition based on the inverse relationship between volume and pressure. It measures the amount of air displaced by an individual's body considering thoracic gas volume. A few studies have shown slight discrepancies in accurately determining body fat percentages (range 5 1.8-3.6 %BF) when examining air-displacement plethysmography (39,43). However, BodPod does seem to have a strong test-retest reliability (e.g., .0.99) <ref type="bibr" target="#b53">(70)</ref>. In addition, a recent study comparing DEXA to BodPod in collegiate hockey players demonstrated that BodPod significantly overestimated FFM (2.93 6 2.06 kg) and underestimated FM (3.27 6 1.92 kg) <ref type="bibr" target="#b18">(18)</ref>. Regarding the training/nutrition studies using BodPod at both baseline and posttesting, the absolute values should be taken with caution. However, given the relatively high test-retest reliability for BodPod, more confidence can be given regarding the reported delta changes in FM and FFM.</p><p>Finally, another assessment to examine changes in body composition is Amode ultrasonography. Specifically, this technique can measure muscle thickness and subcutaneous fat. Recently, this method has also been used to calculate total body FFM, FM, and body fat percentage in conjunction with the 7-site Jackson-Pollock formula <ref type="bibr" target="#b9">(9)</ref>. This assessment has been reported to be similar to DEXA for estimates of body composition <ref type="bibr" target="#b9">(9,</ref><ref type="bibr" target="#b34">51)</ref>. Importantly, training/nutrition studies using A-mode ultrasonography need to consider intraindividual variability when performing body composition assessments.</p><p>Due to the potential limitations for each assessment, practitioners need to be aware that minor changes in body composition demonstrated with these tools may be due to inherent variability and/ or covariates that were not quantified (e.g., hydration and nutritional status). With that said, when these methods are appropriately used and strictly standardized, there is a stronger likelihood that the results observed are accurate and reliable.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TRAINING STATUS</head><p>It is well accepted that training status significantly impacts the rate of progress in body composition. Novice trainees tend to experience greater muscular adaptations compared to advanced lifters. For example, Cribb et al. <ref type="bibr" target="#b16">(16)</ref> reported significant gains in FFM (+5 kg) and reductions in FM (21.4 kg) in a group of recreationally trained individuals over 10 weeks. However, Antonio et al. <ref type="bibr" target="#b3">(4)</ref> reported that highly trained subjects gained 1.9 kg of FFM and did not demonstrate significant reductions in FM over an 8-week period. Many high-level athletes often take time away from their training regimen (i.e., off-season) or have a period with substantially less work performed (i.e., detraining). This detraining period will likely lead to a temporary reduction in training status, performance, and body composition profile. However, once training resumes, these individuals typically regain their body composition adaptations rapidly <ref type="bibr" target="#b30">(47)</ref>. For example, Zemski et al. <ref type="bibr" target="#b59">(76)</ref>          When exploring the literature on physique athletes, most of the data are demonstrated in case studies examining competitors during contest preparation (For details, Table <ref type="table" target="#tab_5">4</ref>). Contrary to what has been observed in the aforementioned trained populations, most physique athlete case studies do not demonstrate a body recomposition effect (33, <ref type="bibr" target="#b31">48,</ref><ref type="bibr" target="#b39">56)</ref>. This is likely due to the extreme demands of this sport (i.e., energy restriction, high energy expenditure, severely low body fat, negative hormonal adaptations, poor sleep, etc.), which will be discussed later in this review. Interestingly, there is some conflicting evidence demonstrating body recomposition in female physique competitors during their contest preparation phase <ref type="bibr" target="#b33">(50,</ref><ref type="bibr" target="#b38">55)</ref>. One potential explanation for the differences between males and females might be associated with hormonal profile. For example, significant reductions in testosterone levels have been observed in males while in a hypoenergetic state, dieting for competition purposes <ref type="bibr" target="#b26">(26,</ref><ref type="bibr" target="#b27">44,</ref><ref type="bibr" target="#b31">48,</ref><ref type="bibr" target="#b47">64)</ref>. Therefore, the data on physique athletes are difficult to reconcile due to the unique hypoenergetic demands of their sport in season when compared to other trained populations. Although training status/ age seems to impact the magnitude of changes in FFM and FM, more research is warranted to understand how training status can impact body recomposition over time in different trained populations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>TRAINING PRACTICES IN STUDIES WITH TRAINED INDIVIDUALS DEMONSTRATING BODY RECOMPOSITION</head><p>Several studies among trained individuals have reported body recomposition where nutritional intake was not reported or was similar between the interventions <ref type="bibr" target="#b0">(1,</ref><ref type="bibr">36,</ref><ref type="bibr" target="#b35">52,</ref><ref type="bibr" target="#b45">62,</ref><ref type="bibr" target="#b55">72,</ref><ref type="bibr" target="#b58">75)</ref>. For example, Alcaraz et al. <ref type="bibr" target="#b0">(1)</ref> recruited participants who were able to produce a force equal to twice their body mass during an isometric squat at the beginning of the intervention. The subjects performed 8 weeks of either a highresistance circuit (HRC) or a traditional strength training (TST) program. Both groups performed 3-6 supervised sets of 6 exercises (3 compound and 3 isolation) using a 6 repetition maximum (RM) to failure. The HRC group used a 35-second interset recovery between exercises and performed the exercises in circuit fashion, whereas the TST group rested 3 minutes between each set of each exercise before moving to the next exercise. Only the HRC group significantly decreased body fat percentage by 21.5%, whereas the TST group did not (21.1%). However, both groups demonstrated a significant increase in FFM of 1.5 and 1.2 kg, respectively. In addition, in another investigation, researchers examined recreationally trained males with 3 years of RT experience. This six-week study randomized subjects into either a low volume-high frequency (LV-HF) group where participants RT 4 days per week or a high volume-low frequency (HV-LF) group where participants RT 2 days per week <ref type="bibr" target="#b58">(75)</ref>. All participants were instructed not to alter their normal nutritional habits. However, the researchers did not report nutritional intake between the groups. Both groups performed the same weekly volume, but the RT volume differed between the sessions. Regarding body composition, both LV-HF and HV-LF groups significantly gained FFM (1.2 and 1.4 kg, respectively). However, the reductions in FM only reached statistical significance in the HV-LF group (22.4 kg) compared to LV-HF <ref type="bibr">(20.6 kg)</ref>. In another recent study, Colquhoun et al. <ref type="bibr" target="#b15">(15)</ref> investigated the effects of training frequency (33/week versus 63/week) using a volume-matched design in welltrained subjects undergoing a powerlifting program. Both groups gained a significant amount of FFM (33/week: 1.7 kg, 63/week: 2.6 kg) and although they both lost FM (20.3 and 20.1 kg, respectively), these reductions were not statistically significant.</p><p>Collectively, these studies indicate that body recomposition can occur in trained individuals using a variety of RT programs that are geared to develop muscular strength and hypertrophy. In addition, adjusting nutritional intake is common in individuals attempting to maximize RT gains in strength and hypertrophy <ref type="bibr" target="#b37">(54)</ref>. In the next section, we will discuss RT studies that either monitored, controlled, or manipulated the subjects' nutritional approach.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NUTRITIONAL INFLUENCE ON BODY RECOMPOSITION WHEN COUPLED WITH RESISTANCE TRAINING</head><p>The combination of RT and specific nutritional strategies can significantly impact training performance <ref type="bibr" target="#b35">(52)</ref>, recovery <ref type="bibr" target="#b6">(7)</ref>, and body composition <ref type="bibr" target="#b14">(14,</ref><ref type="bibr">28,</ref><ref type="bibr" target="#b44">61)</ref>. Generally, caloric deficits are prescribed for individuals seeking to lose FM and caloric surpluses are recommended for those seeking to maximize muscle mass accrual <ref type="bibr" target="#b23">(23,</ref><ref type="bibr" target="#b37">54,</ref><ref type="bibr" target="#b44">61,</ref><ref type="bibr" target="#b56">73)</ref>. Although this is common practice, there is evidence that challenges this approach and suggests there may be alternative strategies to improve body composition <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr">40,</ref><ref type="bibr">42)</ref>. For instance, there are data showing significant gains in FFM and reductions in FM while in a caloric surplus <ref type="bibr" target="#b21">(21)</ref>. In addition, significant body recomposition has been demonstrated in hypocaloric studies (40,42). Recently, Slater et al. <ref type="bibr" target="#b44">(61)</ref> questioned the necessity of a hypercaloric intake to maximize skeletal muscle hypertrophy in conjunction with RT. The mechanisms that may explain the body recomposition phenomena are not well understood. For example, the precise energy cost of skeletal muscle growth is not fully known. In addition, we are unsure how the magnitude of energy supply, specifically endogenous sources (i.e., internal fat stores/body fat levels) and exogenous fuel (i.e., diet), pertain to this process <ref type="bibr" target="#b44">(61)</ref>. With that said, body composition changes seem to be more complex than energy balance alone because research has shown that different nutritional strategies (i.e., high-protein diets, hypocaloric diets, etc.) may elicit body recomposition <ref type="bibr" target="#b13">(13,</ref><ref type="bibr" target="#b21">21,</ref><ref type="bibr">40)</ref>.</p><p>In fact, RT studies have demonstrated body recomposition in which nutrition was controlled and/or manipulated. More specifically, some of these studies increased the participant's caloric intake, primarily from dietary protein <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b13">13,</ref><ref type="bibr" target="#b21">21)</ref>. For example, Antonio et al.</p><p>(3) investigated the effects of a very high-protein diet (HP 3.4 g/kg) compared to a "normal protein" diet (NP 2.3 g/kg) on body composition in welltrained men and women in conjunction with heavy RT. The participants underwent an RT program (upperlower split) 5 days per week for 8 weeks and both groups gained a significant, yet equal amount of FFM (1.5 kg). Interestingly, the HP group, which was consuming an additional ;495 calories per day, lost significantly more FM than the NP group (21.6 versus 20.3 kg). The authors highlighted the large interindividual variability, which is important for practitioners to be aware of. For instance, in both groups, some subjects gained up to 7 kg of FFM while losing 4 kg of FM concomitantly. However, some subjects actually lost FFM and gained FM. Their data suggest that ;70% of subjects improve their overall body composition when implementing high-protein diets.</p><p>Body recomposition effects of a larger magnitude that reached statistical significance were observed by Haun et al. <ref type="bibr" target="#b21">(21)</ref> in their extreme-volume RT study that investigated the effects of graded whey protein (WP) supplementation in well-trained males. Subjects underwent full-body RT sessions 3 times per week, and volume was progressed from 10 weekly sets per exercise to 32 sets over the 6-week intervention. Participants were randomized into 3 groups: maltodextrin group (MALTO) consuming 30 g per day, WP group receiving 25 g per day, and graded WP (GWP) group receiving an additional 25 g WP each week during the 6-week study (25-150 g WP/day). Furthermore, all groups were instructed by a registered dietician to consume specific macronutrients guidelines equating to a ;500 calorie surplus. All groups demonstrated a significant increase in FFM from pre to post (MALTO: 2.35 kg, WP: 1.22 kg, GWP: 2.93 kg). However, only the WP and GWP groups displayed a significant reduction in FM simultaneously (20.65 and 21.0 kg, respectively). Although the WP and GWP groups were using different postworkout nutrition interventions, when looking at their daily protein intake, no significant differences were observed (2.3 versus 2.2 g/kg, respectively). Notably, although the MALTO group was not receiving WP supplementation, their relative daily protein intake (2.3 g/kg) was not different compared to the WP and GWP groups. These results may suggest potential benefits of specific nutrient timing (i.e., postworkout) versus total daily intakes in highly trained individuals performing extreme volume progressions. However, nutrient timing and its effects on body recomposition in trained populations warrant further investigations.</p><p>Additional evidence from Campbell et al. <ref type="bibr" target="#b13">(13)</ref> reported similar positive effects on body composition when aspiring female physique athletes increased their total calorie intake (;250 kcal) from dietary protein alone. These subjects were split into 2 groups, low protein (LP 0.9 g/kg) and high protein (HP 2.5 g/kg), while undergoing an upper-lower RT split, 43/week. The HP group demonstrated a significant body recomposition effect, gaining 2.1 kg FFM and losing 21.1 kg of FM despite consuming an additional 423 kcals daily. However, the LP group only gained a statistically significant, yet relatively small amount of FFM (0.6 kg) and did not demonstrate significant reductions in FM (20.8 kg). When evaluating the individual data from this study, all subjects in the HP group gained FFM, whereas some subjects (3 of 9) in the LP group actually lost FFM. These data further support the importance of dietary protein intake for those undergoing RTand trying to improve body composition. However, body recomposition effects of even larger magnitudes have been reported with a moderate protein intake and a more balanced nutritional approach <ref type="bibr" target="#b35">(52)</ref>. The variability between studies makes it difficult for researchers, coaches, and practitioners to make evidence-based suggestions as we continue to investigate which approach is the most advantageous for trained individuals.</p><p>In another study, Rauch et al. <ref type="bibr" target="#b33">(50)</ref> reported significant body recomposition in female collegiate volleyball players undergoing 7 weeks of power-oriented, full-body RT with similar relative lowerbody strength. All dietary information was recorded and analyzed to quantify total and relative (i.e., g/kg) calories and macronutrient intake. Moreover, all participants consumed 25 grams of WP immediately after each exercise session, consumed the same relative quantity of protein per day (1.6 g/kg), and consumed a similar caloric intake throughout the study. Participants were assigned to either an optimal training load (OTL) where participants worked at velocities that maximized power output, or a progressive velocity-based training (PVBT) group, where participants worked at slower velocities (geared at strength), the first training block, and then progressed to OTL velocities, the last training block. The investigators reported that the OTL group increased 2.7 kg of lean body mass and lost 2.7 kg of FM, whereas the PVBT group gained 2.7 kg of lean body mass and lost 2.1 kg of FM. These substantial recomposition findings may have been amplified due to multiple factors. For example, the starting body fat percentage in these volleyball players was higher compared to the leaner, aspiring female physique competitors in the aforementioned study (;29 versus ;22%). This may have influenced the greater reductions in FM and gains in lean body mass. In addition, these athletes received nutritional guidance from a sports nutritionist/registered dietician. Finally, this investigation was conducted during their conditioning phase (i.e., off-season) after a detraining period.</p><p>Taken together, these reports document the process of body recomposition with moderate to high dietary protein intakes Strength and Conditioning Journal | www.nsca-scj.com coupled with progressive RT across a wide spectrum of trained populations. Moreover, having higher levels of body fat may affect the magnitude of body recomposition because these fat stores may provide endogenous energy to support muscle mass accrual <ref type="bibr" target="#b44">(61)</ref>. However, the impact of initial body fat levels, training status, RT programs, and nutritional intake on body recomposition are not yet fully elucidated and warrants further investigation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NONTRAINING/NUTRITION-RELATED FACTORS THAT MAY INFLUENCE BODY RECOMPOSITION</head><p>Although it is not fully understood, additional factors such as sleep (i.e., quality and quantity), stress hormones (e.g., cortisol), androgenic hormones (e.g., testosterone), and metabolic rate may influence changes in body composition <ref type="bibr">(38,</ref><ref type="bibr" target="#b29">46,</ref><ref type="bibr" target="#b36">53,</ref><ref type="bibr" target="#b54">71)</ref>. Unfortunately, many training and nutrition studies do not take into account these important covariates. However, when examining the body of literature that has investigated the effects of these factors on body composition, it is clear they can impact how each individual is responding to the interventions.</p><p>For example, Wang et al. <ref type="bibr" target="#b54">(71)</ref> examined the effects of sleep restriction (;1 hour reduction, 53/week) on weight loss outcomes in overweight adults in a hypocaloric environment. They demonstrated that both groups in an equated caloric deficit lost a similar amount of total body weight (23.2 kg). However, when analyzing the percentage of FFM within total mass lost, the sleep-restricted group lost significantly more FFM than they did FM (84.8 versus 16.9%), respectively. However, their counterparts who were not sleep-restricted better preserved FFM and lost a significant amount of FM (17.3 versus 80.7%) of the total mass lost, respectively. It is important to note that these subjects were not undergoing RT. They also observed that the sleeprestricted group had a significant increase in ghrelin <ref type="bibr" target="#b54">(71)</ref>. Ghrelin is commonly referred to as the "hunger hormone" and has been shown to increase the likelihood of weight regain (specifically fat) and is one component (of many) why some individuals fail to maintain their weight loss <ref type="bibr" target="#b48">(65,</ref><ref type="bibr" target="#b52">69)</ref>.</p><p>Additional data investigating sleep deprivation have demonstrated negative effects on multiple athletic performance variables and recovery capabilities <ref type="bibr" target="#b17">(17,</ref><ref type="bibr">41,</ref><ref type="bibr" target="#b36">53)</ref>. For example, Reilly and Piercy (53) observed significant reductions in strength-endurance performance and total volume load on compound exercises such as the bench press, deadlift, and leg press when subjects were in a sleep-restricted state. Furthermore, they reported that the subject's rating of perceived exertion was significantly greater when performing the same RT task in a sleep-deprived state. These negative effects are important to note because training volume is a critical variable for muscle hypertrophy <ref type="bibr" target="#b42">(59)</ref>.</p><p>Sleep deprivation is also associated with negative hormonal adaptations through the hypothalamic-pituitary-adrenal axis -leading to an increase in cortisol, glucose, and insulin, and a decrease in testosterone, adiponectin, and growth hormone <ref type="bibr">(27,</ref><ref type="bibr">37,</ref><ref type="bibr">38)</ref>. This dysregulation seems to create an "anti" body recomposition environment, where building muscle mass and losing FM would be less likely. More specifically, in athletic populations, hypocaloric intakes and significant reductions in body weight and FM have been shown to negatively impact testosterone <ref type="bibr" target="#b31">(48,</ref><ref type="bibr" target="#b47">64,</ref><ref type="bibr" target="#b52">69)</ref>. For example, Bhasin et al. <ref type="bibr" target="#b10">(10)</ref> have demonstrated that there is a direct relationship between serum testosterone levels and gains in FFM. This may partially explain why the case studies in natural bodybuilders have demonstrated a loss in FFM while preparing for their competition despite their RT and high protein intake. More recently, a study also demonstrated that sleep restriction had a detrimental acute effect on myofibrillar protein synthesis rates, which may be associated with loss of muscle mass negatively impacting body composition. This study also reported that protein synthesis rates can be maintained by performing high-intensity exercise even under the sleep-restriction scenario <ref type="bibr" target="#b41">(58)</ref>.</p><p>Although studies have focused on describing the negative effects of sleep restriction on several different parameters including body composition, there is a paucity of data on how improving sleep quality would specifically impact body composition. Although the last study suggests that optimizing sleep may potentiate body recomposition in people RT, it was conducted in untrained individuals. Thus, the impact sleep quality and quantity may have on body recomposition in trained individuals needs to be determined. In addition, when investigating many of the previous studies referenced in this review, these nontraining/nutrition factors were not monitored or controlled in trained populations. Therefore, one may argue they may have impacted the results of the studies and partially explain differences in the body recomposition outcomes between subjects and groups. However, more research is required to better understand if these negative outcomes in body composition can be prevented or minimized when trained participants have adequate sleep and a more favorable hormonal profile.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>Despite the common belief that building muscle and losing fat at the same time is only plausible in novice/obese individuals, the literature provided supports that trained individuals can also experience body recomposition. Individuals' training status, the exercise interventions, and their baseline body composition can influence the magnitude of muscle gained and fat lost. Resistance training coupled with dietary strategies has been shown to augment this phenomenon. In addition, there seems to be confounding nontraining/ nutrition variables such as sleep, hormones, and metabolism that can significantly influence these adaptations. Thus, coaches and practitioners must self-audit their current approach, determine how they can improve their training and nutritional regimen on an individual basis, and implement evidence-based strategies to optimize body recomposition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PRACTICAL APPLICATIONS</head><p>The literature demonstrating a body recomposition effect consist of a highly heterogeneous set of designs, methods, and outcomes. These discrepancies in methodology make specific guidelines to optimize body recomposition difficult to reconcile. Nevertheless, the following recommendations can be drawn from the methods used and results reported within the studies discussed in this review.</p><p>Implement a progressive RT regimen with a minimum of 3 sessions per week.</p><p>Tracking rate of progress, and paying attention to performance and recovery can be important tools to appropriately adjust training over time. Consuming 2.6-3.5 g/kg of FFM may increase the likelihood or magnitude of recomposition <ref type="bibr" target="#b2">(3,</ref><ref type="bibr" target="#b25">25,</ref><ref type="bibr">28,</ref><ref type="bibr" target="#b44">61)</ref>. Protein supplements (i.e., whey and casein) may be used as a means to increase daily dietary protein intake as well as a tool to maximize muscle protein synthesis. This may be of greater importance postworkout as a means to maximize the recomposition effect <ref type="bibr" target="#b21">(21)</ref>.</p><p>Prioritizing sleep quality and quantity may be an additional variable that can significantly impact changes in performance, recovery, and body composition <ref type="bibr">(41,</ref><ref type="bibr" target="#b29">46,</ref><ref type="bibr" target="#b36">53,</ref><ref type="bibr" target="#b54">71)</ref>. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>FFM, and lost a non-significant amount of FM. LV-HF (FFM +1.2,a FM 20.6) HV-LF (FFM +1.4, a FM 22.4) a Statistical significance. BM 5 body mass; DEXA 5 dual-energy x-ray absorptiometry; RT 5 resistance training; FFM 5 fat-free mass; FM 5 fat mass; HP 5 high protein intake; HV-LF 5 high volume-low frequency; NP 5 normal protein intake; NR 5 not recorded; PRO 5 protein intake; 1RM 5 one repetition maximum.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>7 a ) PVBT (FFM +2.7,a FM 22.1 a ) a Statistical significance. BM 5 body mass; DEXA 5 dual-energy x-ray absorptiometry; FFM 5 fat-free mass; FM 5 fat mass; HP 5 high protein intake; NP 5 normal protein intake; PRO 5 protein intake; 1RM 5 one repetition maximum; OTL 5 optimal training load. Strength and Conditioning Journal | www.nsca-scj.com</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Summary of study designs that have demonstrated recomposition with resistance training without nutrition reported in trained individuals</figDesc><table><row><cell>Study</cell><cell>Training status/demographic</cell><cell></cell><cell>Study design</cell><cell>Training intervention</cell><cell cols="2">BC assessment Nutrition</cell><cell>Conclusions</cell></row><row><cell>Alcaraz</cell><cell>Resistance-trained men with</cell><cell cols="2">Counterbalanced repeated-</cell><cell>Both groups performed 6RM</cell><cell>DEXA</cell><cell>NR</cell><cell>Both groups increased FFM,</cell></row><row><cell>et al. (1)</cell><cell>at least 1 y of RT experience</cell><cell></cell><cell>measures design.</cell><cell>sets to failure for 6 total</cell><cell></cell><cell></cell><cell>and lost a non-significant</cell></row><row><cell></cell><cell>and can produce a force</cell><cell></cell><cell>Participants were randomly</cell><cell>compound and isolation</cell><cell></cell><cell></cell><cell>amount of FM.</cell></row><row><cell></cell><cell>equal to twice their body mass during an isometric squat</cell><cell>or</cell><cell>assigned to high-resistance circuit (HRC) training</cell><cell>exercises 3 d/wk</cell><cell></cell><cell></cell><cell>HRC (FFM +1.5, a FM 21.1) TST</cell></row><row><cell></cell><cell></cell><cell cols="2">Traditional strength training (TST).</cell><cell></cell><cell></cell><cell></cell><cell>(FFM + 1.2, a FM 20.8)</cell></row><row><cell></cell><cell></cell><cell cols="2">8-wk intervention</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Colquhoun</cell><cell>RT college males with $6 mo</cell><cell cols="2">Counterbalanced, parallel-</cell><cell>Daily undulating</cell><cell>A-mode</cell><cell>NR</cell><cell>Both groups increased FFM,</cell></row><row><cell>et al. (15)</cell><cell>experience.</cell><cell></cell><cell>groups repeated-measures</cell><cell>periodization program</cell><cell>ultrasound</cell><cell></cell><cell>and lost a non-significant</cell></row><row><cell></cell><cell>1RM squat: BM ratio-low frequency 1.7 high frequency 1.6 1RM bench: BM ratio-low frequency 1.3 high frequency 1.2</cell><cell></cell><cell>design. Participants were randomly assigned to low frequency (33/wk) or high frequency (63/wk). 6-wk intervention</cell><cell>designed to target the powerlifts (squat, bench press, and deadlift) while equating intensity and volume</cell><cell></cell><cell></cell><cell>amount of FM. Low frequency (FFM +1.7, a FM 20.3) High frequency (FFM +2.6, a FM 20.1)</cell></row><row><cell></cell><cell>1RM deadlift: BM ratio-low</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>frequency 2.0 high</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>frequency 2.0</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Wilborn</cell><cell>NCAA Division III female</cell><cell cols="2">Parallel-group repeated-</cell><cell>Full-body undulating</cell><cell>DEXA</cell><cell>NR</cell><cell>Both groups increased FFM</cell></row><row><cell>et al. (72)</cell><cell>basketball players (at least 1</cell><cell></cell><cell>measures design.</cell><cell>periodized program 4 d/wk.</cell><cell></cell><cell></cell><cell>and lost FM.</cell></row><row><cell></cell><cell>y RT experience)</cell><cell></cell><cell>Participants were randomly assigned to whey (W) or casein (C). 8-wk training</cell><cell>Sport-specific conditioning 3 d/wk</cell><cell></cell><cell></cell><cell>W (FFM +1.5</cell></row><row><cell></cell><cell></cell><cell></cell><cell>period</cell><cell></cell><cell></cell><cell></cell></row></table><note>a , FM 21.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Summary of study designs that have demonstrated recomposition with resistance training and nutrition data provided in trained individuals</figDesc><table><row><cell></cell><cell>Study</cell><cell>Training status/</cell><cell>Study design</cell><cell>Training intervention</cell><cell>BC</cell><cell>Nutrition</cell><cell>Conclusions</cell></row><row><cell></cell><cell></cell><cell>demographic</cell><cell></cell><cell></cell><cell>assessment</cell><cell></cell><cell></cell></row><row><cell></cell><cell>Antonio</cell><cell>Resistance-trained men</cell><cell>Parallel-group</cell><cell>Hypertrophy-oriented</cell><cell>BodPod</cell><cell>NP group maintained the</cell><cell>Both groups increased FFM</cell></row><row><cell></cell><cell>et al. (3)</cell><cell>and women who had</cell><cell>repeated-measures</cell><cell>upper and lower split</cell><cell></cell><cell>same dietary habits (2.3</cell><cell>and lost FM.</cell></row><row><cell></cell><cell></cell><cell>been weight training regularly Avg Normal pro: 2.4 6 1.7 High pro: 4.9 6 4.1</cell><cell>design. Participants were randomly assigned to normal protein (HP) groups. protein (NP) or high</cell><cell>routine program 5 d/ wk</cell><cell></cell><cell>HP: 2,614 Total calories-NP: 2,119 g PRO/kg/d) HP group consumed (3.4 g PRO/kg/d)</cell><cell>NP (FFM +1.5 a , FM 20.3 a ) HP (FFM +1.5a , FM 21.6 a )</cell></row><row><cell></cell><cell></cell><cell></cell><cell>8-wk heavy resistance</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>training program</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Antonio</cell><cell>Resistance-trained men</cell><cell>Counterbalanced-</cell><cell>Participants exercised</cell><cell>BodPod</cell><cell>NP group maintained the</cell><cell>Both groups increased FFM</cell></row><row><cell></cell><cell>et al. (4)</cell><cell>and women who had</cell><cell>group repeated-</cell><cell>outside of the</cell><cell></cell><cell>same dietary habits (1.8</cell><cell>and reduced body fat</cell></row><row><cell></cell><cell></cell><cell>been weight training</cell><cell>measures design.</cell><cell>laboratory and were</cell><cell></cell><cell>g PRO/kg/d)</cell><cell>percentage to a non-</cell></row><row><cell>Strength and Conditioning Journal | www.nsca-scj.com</cell><cell>Campbell et al. (13)</cell><cell>regularly (8.9 6 6.7 y and an average of 8.5 6 3.3 h per wk) Aspiring female physique athletes able to deadlift 1.53 BM and $3 mo RT 1RM squat: BM ratio-High protein group 1.1 Low protein group 1.2 1RM deadlift: BM ratio-high protein group 1.4 Low protein group 1.6</cell><cell>Participants were randomly assigned to NP or HP groups. Subjects performed training outside of laboratory and reported total volume load at baseline and posttesting. 8-wk intervention Parallel-group repeated-measures design. Participants were randomly assigned to HP or low protein (LP). 8-wk intervention</cell><cell>asked to track their total volume load Hypertrophy-oriented upper and lower split routine program. 4 d/wk</cell><cell>A-mode ultrasound</cell><cell>HP group consumed 4.4 g PRO/kg/d. Total Cal-NP: 2,052 HP: 2,835 LP group consumed (0.9 g PRO/kg/d) HP group consumed (2.5 g PRO/kg/d) Total Cal-HP: 1,839 LP: 1,416</cell><cell>significant degree. The HP group lost a non-significant amount of FM and the NP group gained a trivial amount of FM. NP (FFM +1.3, FM +0.3) HP (FFM +1.9, FM 20.2) Both groups increased FFM, however only the HP group lost a significant amount of FM. HP (FFM +2.1a , FM 21.1 a ) LP (FFM +0.6 a , FM 20.8) (continued)</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3 (</head><label>3</label><figDesc>continued )</figDesc><table><row><cell>Cribb et al.</cell><cell>Recreational bodybuilders</cell><cell cols="2">Parallel-group</cell><cell>Linear progressive</cell><cell>DEXA</cell><cell>Both groups on average</cell><cell>Both groups increased FFM.</cell></row><row><cell>(16)</cell><cell>with at least 2 y of RT</cell><cell></cell><cell>repeated-measures</cell><cell>overload program.</cell><cell></cell><cell>consumed 2.1 g PRO/</cell><cell>However, only the W group</cell></row><row><cell></cell><cell>experience</cell><cell></cell><cell>design. Participants</cell><cell>Designed for</cell><cell></cell><cell>kg/d during the study.</cell><cell>lost FM.</cell></row><row><cell></cell><cell>1RM squat: BM ratio-Both groups 0.9 6 0.1 Casein group 1.1 6 0.1 group 1.0 6 0.1 1RM bench: BM ratio-whey</cell><cell cols="2">10-wk training period protein (C) groups. were randomly assigned to whey protein (W) or casein</cell><cell>overload phase-1 (70-75% of 1RM), phases; preparatory maximizing strength and hypertrophy was divided into 3</cell><cell></cell><cell></cell><cell>W (FFM +5.0, a FM 21.4 a ) C (FFM +0.8, a FM +0.1)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>(80-85% of 1RM),</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>and overload phase-</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>2 (90-95% of 1RM).</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Upper and lower split</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>routine</cell><cell></cell><cell></cell></row><row><cell>Haun et al.</cell><cell>Resistance-trained young</cell><cell cols="2">Parallel-group</cell><cell>Linear progressive</cell><cell>DEXA</cell><cell>All groups aimed for a 500</cell><cell>All groups increased FFM but</cell></row><row><cell>(21)</cell><cell>men with minimum</cell><cell></cell><cell>repeated-measures</cell><cell>overload program.</cell><cell></cell><cell>calorie surplus and 1.6</cell><cell>only the W and GWP lost</cell></row><row><cell></cell><cell>estimated 1.5 3 BM</cell><cell></cell><cell>design. Participants</cell><cell>Full-body 33/wk.</cell><cell></cell><cell>g/PRO/kg/d during the</cell><cell>FM.</cell></row><row><cell></cell><cell>squat 3RM squat: BM ratio-1.6 3RM bench: BM ratio-1.2</cell><cell></cell><cell>were partitioned to maltodextrin (M), whey protein (WP), or graded whey</cell><cell>Sets would increase each wk but repetitions remained at a goal of 10 per</cell><cell></cell><cell>first wk of the study. The groups on average consumed 2.2 g/PRO/ kg/d throughout the</cell><cell>M (FFM +2.3,a FM +0.2) WP (FFM +1.7, a FM 20.7 a ) GWP (FFM +2.9,a FM 21.0 a )</cell></row><row><cell></cell><cell></cell><cell></cell><cell>protein (GWP)</cell><cell>exercise.</cell><cell></cell><cell>study.</cell></row><row><cell></cell><cell></cell><cell></cell><cell>groups. 6-wk training</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>period</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Kreipke</cell><cell>Resistance-trained young</cell><cell cols="2">Parallel-group</cell><cell>4 d/wk progressive,</cell><cell>DEXA</cell><cell>No differences in PRO or</cell><cell>Both groups increased FFM</cell></row><row><cell>et al.</cell><cell>men ($1 y training in</cell><cell></cell><cell>repeated-measures</cell><cell>strength-oriented</cell><cell></cell><cell>caloric intake.</cell><cell>but only the PL group lost a</cell></row><row><cell>(36)</cell><cell>the squat, bench, and deadlift) 1RM squat: BM ratio-both 1RM bench: BM ratio-groups 1.6</cell><cell>or</cell><cell>design. Participants were randomly assigned to placebo (PL)</cell><cell>to volitional fatigue powerlifting regimen. 5 3 5 and 3 3 10 of compound exercises performed</cell><cell></cell><cell>Avg PRO intake: 2.1 g/kg/d</cell><cell>significant amount of FM. PL (FFM +1.1, a FM 20.7 a ) SUP (FFM +1.3,a FM 20.2)</cell></row><row><cell></cell><cell>Placebo 1.2 Preworkout</cell><cell cols="2">Preworkout</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1.3</cell><cell></cell><cell>supplement (SUP)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1RM deadlift: BM ratio-</cell><cell cols="2">4-wk training period</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Placebo 2.0 Preworkout</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>2.1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 3 (</head><label>3</label><figDesc>continued )</figDesc><table><row><cell>Slater et al.</cell><cell>Elite male water polo and</cell><cell>Parallel-group</cell><cell>Full-body strength-</cell><cell>DEXA</cell><cell>All groups on average</cell><cell>All groups gained FFM.</cell></row><row><cell>(62)</cell><cell>rowers</cell><cell>repeated-measures</cell><cell>oriented program</cell><cell></cell><cell>consumed 2.4 g PRO/</cell><cell>However, reductions in FM</cell></row><row><cell></cell><cell>Avg RT experience PL: 7.1 6 1.7 HMB: 7.4 6 2.0 trHMB: 6.9 6 0.8</cell><cell>design. Participants were randomly assigned to placebo (PL), HMB, or time released HMB</cell><cell>composed of mainly compound exercises with 24-32 sets per session</cell><cell></cell><cell>kg/d and increased mean energy intake 224 kJ/kg/d during the study</cell><cell>were non-significant. PL (LBM +0.9, a FM 20.4) HMB (LBM +1.2,a FM 21.0) trHMB (LBM +3.5, a FM 22.5)</cell></row><row><cell></cell><cell></cell><cell>(trHMB) groups. 6-wk</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>training period</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rauch</cell><cell>NCAA Division II female</cell><cell>Parallel-group</cell><cell>7-wk (3 d/wk) power-</cell><cell>DEXA</cell><cell>No differences in PRO or</cell><cell>Both groups increased FFM</cell></row><row><cell>et al.</cell><cell>volleyball players</cell><cell>repeated-measures</cell><cell>oriented full-body</cell><cell></cell><cell>caloric intake.</cell><cell>and lost FM.</cell></row><row><cell>(52)</cell><cell>1RM squat: BM ratio 1.1</cell><cell>assigned to optimal design. Participants were randomly</cell><cell>program</cell><cell></cell><cell>Avg PRO intake: 1.6 g/kg/d</cell><cell>OTL (FFM +2.7,</cell></row><row><cell></cell><cell></cell><cell>training load (OTL)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>or</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Progressive velocity-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>based training (PVBT)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note>a FM 22.</note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4</head><label>4</label><figDesc>Summary of case studies that investigate body composition changes in response to exercise, nutrition, and supplementation of competitive physique athletes</figDesc><table><row><cell>Study</cell><cell>Competitor demographic</cell><cell>Resistance training</cell><cell>Aerobic</cell><cell cols="2">BC assessment Nutrition supplements</cell><cell>Conclusions</cell></row><row><cell>Halliday</cell><cell>27-y-old drug-free</cell><cell>Prep: 4-5 d/wk</cell><cell>Prep: (10-30) min HIIT 1-2 d/</cell><cell>DEXA</cell><cell>$2.2 g/kg PRO daily</cell><cell>Body fat decreased</cell></row><row><cell>et al. (20)</cell><cell>amateur female figure competitor 20-wk prep + 20-wk recovery</cell><cell>High-volume program training each muscle group 2-33/wk Recovery: 3-4 d/wk high-volume program</cell><cell>wk and (45-120 min) aerobic exercise 1 d/wk Recovery: (10-30 min) HIIT 1-2 d/wk and (45-60 min) aerobic exercise 1 d/wk</cell><cell></cell><cell>throughout prep and recovery Supplements used: whey and casein protein and 5 g/d of creatine</cell><cell>from 15.1% (8.3 kg) at baseline to 8.6% (4.3 kg) one wk out of competition.</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>monohydrate</cell><cell>FFM was maintained</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>at 44.3 kg</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>throughout 20-wk</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>prep 20-wk</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>postcomp</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>showed BF%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>returned to</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>baseline at 14.8%.</cell></row><row><cell>Kistler</cell><cell>26-y-old drug-free,</cell><cell>5 d/wk</cell><cell>Beginning contest prep, two</cell><cell>DEXA</cell><cell>250 g PRO daily for all</cell><cell>FFM decreased 6.6</cell></row><row><cell>et al. (33)</cell><cell>amateur male bodybuilder with 10 y RT experience</cell><cell>60-90 min sessions Each muscle group trained 23/wk</cell><cell>40-min sessions of high-intensity interval training (HIIT) per wk.</cell><cell></cell><cell>prep Supplements used: 30 g BCAA, 3 g HMB, 2 g fish</cell><cell>kg FM decreased 10.4 kg</cell></row><row><cell></cell><cell>26-wk prep</cell><cell>Day 1: 3-8 reps</cell><cell>End of contest prep, four 60-</cell><cell></cell><cell>oil, 5 g creatine mono,</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Day 2: 8-15 reps</cell><cell>min sessions of HIIT and two</cell><cell></cell><cell>6 g beta alanine,</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>30-min sessions of low-</cell><cell></cell><cell>multivitamin</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>intensity steady-state (LISS)</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>per wk</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Pardue</cell><cell>21-y-old drug-free,</cell><cell>5-6 d/wk</cell><cell>No aerobic exercise was</cell><cell>BodPod and</cell><cell>At baseline, the</cell><cell>Prep: BF% decreased</cell></row><row><cell>et al. (48)</cell><cell>amateur male bodybuilder with 8 y RT experience 32-wk prep + 20-wk recovery</cell><cell>Each muscle group trained 23/wk Variety of repetition ranges intensities (4-25 repetitions) and</cell><cell>performed at baseline, but cardio was incrementally increased until reaching a state (MISS) sessions. medium-intensity steady HIIT sessions and four 30-min weekly load of two 20-min</cell><cell>DEXA</cell><cell>competitor consumed 3,860 cal (28% protein [3.2 g/kg], 52% competitor consumed End of prep, the kg], 20% fat [1.0 g/kg]) carbohydrate [5.9 g/</cell><cell>from 13.4 to 9.6% recovery: BF% increased to 17.2%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>1,724 kilocalories (52%</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>protein [2.9 g/kg], 19%</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>carbohydrate [1.1 g/</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>kg], 29% fat [0.7 g/kg])</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Supplements used: whey</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>protein, BCAA, creatine</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>monohydrate, beta-</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>alanine, and</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>preworkout</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 4 (</head><label>4</label><figDesc>continued )</figDesc><table><row><cell>Petrizzo</cell><cell>29-y-old drug-free</cell><cell>Phase 1: 4-5 d/wk for the</cell><cell>Phase 1 (20-60): min HIIT 3 d/</cell><cell>DEXA</cell><cell>.3.2 g/kg PRO daily</cell><cell>FFM increased 0.7 kg</cell></row><row><cell>et al. (50)</cell><cell>amateur female figure competitor with 8-y RT experience</cell><cell>High-volume program first 22 wk; phase 2: 6 d/wk for the final 10 wk)</cell><cell>wk wk Phase 2 (30-40): min HIIT 4 d/</cell><cell></cell><cell>BCAA, whey protein, throughout prep Supplements used:</cell><cell>FM decreased 8.0 kg</cell></row><row><cell></cell><cell>32-wk prep</cell><cell>performing 33 sets to</cell><cell></cell><cell></cell><cell>beta alanine, citrulline</cell><cell></cell></row><row><cell></cell><cell></cell><cell>failure each exercise</cell><cell></cell><cell></cell><cell>malate, alpha-</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>hydroxyisocaproic</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>acid, creatine</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>monohydrate, vitamin</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>B-6</cell><cell></cell></row><row><cell>Rohrig</cell><cell>24-y-old drug-free female</cell><cell>5 d/wk</cell><cell>Weekly adjustments of HIIT and</cell><cell>Hydrostatic</cell><cell>$2.0 g/kg PRO daily</cell><cell>BF% was reduced</cell></row><row><cell>et al. (55)</cell><cell>competitor with 5-y RT experience 24-wk prep</cell><cell>Each muscle group trained 23/wk; one with</cell><cell>MISS based on discretion of coach.</cell><cell>weighing</cell><cell>throughout prep Supplements used:</cell><cell>from 30.45 to 15.85%</cell></row><row><cell></cell><cell></cell><cell>moderate intensity (60-</cell><cell>At end of prep 185 min of MISS</cell><cell></cell><cell>creatine monohydrate,</cell><cell>FFM increased 1.3 kg</cell></row><row><cell></cell><cell></cell><cell>80% 1RM) and volume</cell><cell>with HIIT 3d/wk</cell><cell></cell><cell>fish oil, and</cell><cell>FM decreased 11.4</cell></row><row><cell></cell><cell></cell><cell>and one with high</cell><cell></cell><cell></cell><cell>multivitamin</cell><cell>kg</cell></row><row><cell></cell><cell></cell><cell>intensity (85% + 1RM) and</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>lower volume</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Rossow</cell><cell>27-y-old drug-free</cell><cell>4 d/wk</cell><cell>Prep: 1 d/wk of HIIT and 1 d/wk</cell><cell>BodPod and</cell><cell>Prep period macros:</cell><cell>Prep: (FFM 22.8 kg)</cell></row><row><cell>et al. (56)</cell><cell>professional male bodybuilder with 2 y pro status 24-wk prep + 24-wk recovery</cell><cell>Each muscle group trained 23/wk during the 48-wk</cell><cell>of LISS Recovery: 1 d/wk of HIIT</cell><cell>DEXA</cell><cell>;36% PRO, ;36% carbohydrate (CHO), and ;28% fat for 5 d/ wk and ;30% PRO, ;48%</cell><cell>BF% decreased from 14.8 to 4.5% Recovery: (FFM 20.2 kg) BF% increased to</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>CHO, and ;22% fat for 2</cell><cell>14.6%</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>d/wk.</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Recovery period macros:</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>;25-30% PRO, 35-</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>40% CHO, and 30% to</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>35% fat.</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Supplements used: whey</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>protein and 5 g/d of</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>creatine monohydrate</cell><cell></cell></row><row><cell cols="7">BF% 5 body fat percentage; CHO 5 carbohydrate intake; RT 5 resistance training; DEXA 5 dual-energy x-ray absorptiometry; FFM 5 fat-free mass; FM 5 fat mass; HIIT 5 high-intensity</cell></row><row><cell cols="7">interval training; LISS 5 low-intensity steady state; MISS 5 medium-intensity steady state; Prep 5 weeks leading into a competition; PRO 5 protein intake; Recovery 5 weeks after a</cell></row><row><cell cols="3">competition; 1RM 5 one repetition maximum.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head></head><label></label><figDesc>Kreipke VC, Allman BR, Kinsey AW, et al. Impact of Four weeks of a multiingredient performance supplement on muscular strength, body composition, and anabolic hormones in resistancetrained young men. J Strength Cond Res 29: 3453, 2015. 37. Leproult R, Copinschi G, Buxton O, Van Cauter E. Sleep loss results in an elevation of cortisol levels the next evening. Sleep 20: 865-870, 1997.</figDesc><table><row><cell></cell><cell>training bouts compared to carbohydrate</cell></row><row><cell></cell><cell>supplementation. J Int Soc Sports Nutr 13:</cell></row><row><cell></cell><cell>30, 2016.</cell></row><row><cell></cell><cell>33. Kistler BM, Fitschen PJ, Ranadive SM,</cell></row><row><cell></cell><cell>Fernhall B, Wilund KR. Case study: Natural</cell></row><row><cell></cell><cell>bodybuilding contest preparation. Int J</cell></row><row><cell></cell><cell>Sport Nutr Exerc Metab 24: 694-700,</cell></row><row><cell></cell><cell>2014.</cell></row><row><cell></cell><cell>34. Kjaer M. Role of extracellular matrix in</cell></row><row><cell></cell><cell>adaptation of tendon and skeletal muscle</cell></row><row><cell></cell><cell>to mechanical loading. Physiol Rev 84:</cell></row><row><cell></cell><cell>649-698, 2004.</cell></row><row><cell></cell><cell>35. Kleiner SM, Bazzarre TL, Litchford MD.</cell></row><row><cell></cell><cell>Metabolic profiles, diet, and health</cell></row><row><cell></cell><cell>practices of championship male and female</cell></row><row><cell></cell><cell>bodybuilders. J Am Diet Assoc 90: 962-</cell></row><row><cell></cell><cell>967, 1990.</cell></row><row><cell></cell><cell>36. 38. Leproult R, Van Cauter E. Effect of 1 week</cell></row><row><cell></cell><cell>of sleep restriction on testosterone levels in</cell></row><row><cell></cell><cell>young healthy men. J Am Med Assoc 305:</cell></row><row><cell>27. Hirotsu C, Tufik S, Andersen ML.</cell><cell>2173-2174, 2011.</cell></row><row><cell>Interactions between sleep, stress, and</cell><cell>39. Levenhagen DK, Borel MJ, Welch DC, et al.</cell></row><row><cell>metabolism: From physiological to</cell><cell>A comparison of air displacement</cell></row><row><cell>pathological conditions. Sleep Sci 8: 143-</cell><cell>plethysmography with three other</cell></row><row><cell>152, 2015.</cell><cell>techniques to determine body fat in healthy</cell></row><row><cell>28. Iraki J, Fitschen P, Espinar S, Helms E.</cell><cell>adults. J Parenter Enteral Nutr 23: 293-</cell></row><row><cell>Nutrition recommendations for</cell><cell>299, 1999.</cell></row><row><cell>bodybuilders in the off-season: A narrative</cell><cell>40. Longland TM, Oikawa SY, Mitchell CJ,</cell></row><row><cell>review. Sports (Basel) 8: 154, 2019.</cell><cell>Devries MC, Phillips SM. Higher compared</cell></row><row><cell>29. Ja ˚bekk P, Jensen RM, Sandell MB, et al. A</cell><cell>with lower dietary protein during an energy</cell></row><row><cell>randomized controlled pilot trial of sleep</cell><cell>deficit combined with intense exercise</cell></row><row><cell>health education on body composition</cell><cell>promotes greater lean mass gain and fat</cell></row><row><cell>changes following 10 weeks resistance</cell><cell>mass loss: A randomized trial. Am J Clin</cell></row><row><cell>exercise. J Sports Med Phys Fitness 60:</cell><cell>Nutr 103: 738-746, 2016.</cell></row><row><cell>743-748, 2020.</cell><cell>41. Mah CD, Mah KE, Kezirian EJ, Dement</cell></row><row><cell>30. Jones B, Till K, Roe G, et al. Six-year body</cell><cell>WC. The effects of sleep extension on the</cell></row><row><cell>composition change in male elite senior</cell><cell>athletic performance of collegiate</cell></row><row><cell>rugby league players. J Sports Sci 36:</cell><cell>basketball players. Sleep 34: 943-950,</cell></row><row><cell>266-271, 2018.</cell><cell>2011.</cell></row><row><cell>31. Kassis A, Godin JP, Moille SE, et al. Effects</cell><cell>42. Maltais ML, Perreault K, Courchesne-Loyer</cell></row><row><cell>of protein quantity and type on diet induced</cell><cell>A, et al. Effect of resistance training and</cell></row><row><cell>thermogenesis in overweight adults: A</cell><cell>various sources of protein supplementation</cell></row><row><cell>randomized controlled trial. Clin Nutr 38:</cell><cell>on body fat mass and metabolic profile in</cell></row><row><cell>1570-1580, 2019.</cell><cell>sarcopenic overweight older adult men: A</cell></row><row><cell>32. Kephart WC, Mumford PW, McCloskey AE, et al. Post-exercise branched chain</cell><cell>pilot study. Int J Sport Nutr Exerc Metab 26: 71-77, 2016.</cell></row><row><cell>amino acid supplementation does not</cell><cell></cell></row><row><cell>affect recovery markers following three</cell><cell></cell></row><row><cell>consecutive high intensity resistance</cell><cell></cell></row></table><note>43. McCrory MA, GomezTD, Bernauer EM, Mole ´PA. Evaluation of a new air displacement plethysmograph for</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">Strength and Conditioning Journal | www.nsca-scj.com</note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest and Source of Funding:</head><p>The authors report no conflicts of interest and no source of funding. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Similarity in adaptations to high-resistance circuit vs. traditional strength training in resistance-trained men</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Alcaraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Perez-Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chavarrias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Blazevich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="2519" to="2527" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Reductions in whole-body fat mass but not increases in lean mass predict changes in cardiometabolic health indices with exercise training among weight-stable adults</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Amankwaah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Campbell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Res</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="63" to="69" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A high protein diet (3.4 g/kg/d) combined with a heavy resistance training program improves body composition in healthy trained men and women-A follow-up investigation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellerbroek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Silver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">39</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">on body composition in resistance-trained individuals</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Antonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Peacock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ellerbroek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fromhoff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Silver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">19</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note>The effects of consuming a high protein diet</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effects of concurrent exercise protocols on strength, aerobic power, flexibility and body composition</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Faraji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Moghadam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Samadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kinesiology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="155" to="162" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Increased protein intake and meal frequency reduces abdominal fat during energy balance and energy deficit</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Arciero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ormsbee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Gentile</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obesity</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1357" to="1366" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Areta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Burke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">591</biblScope>
+			<biblScope unit="page" from="2319" to="2331" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Interdevice variability in percent fat estimates using the BOD POD</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Ball</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="996" to="1001" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<idno>nsca-scj.com</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Strength and Conditioning Journal | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Seven-site versus threesite method of body composition using BodyMetrix ultrasound compared to dualenergy X-ray absorptiometry</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Baranauskas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juvancic</forename><forename type="middle">-</forename><surname>Heltzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Phys Funct Imaging</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="317" to="321" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Testosterone dose-response relationships in healthy young men</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhasin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Woodhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Casaburi</surname></persName>
+		</author>
+		<idno>1172-E1181</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Physiol Endocrinol Metab</title>
+		<imprint>
+			<biblScope unit="volume">281</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Effect of protein overfeeding on energy expenditure measured in a metabolic chamber</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Redman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>De Jonge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="496" to="505" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The role of FFM accumulation and skeletal muscle architecture in powerlifting performance</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Brechue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Phys</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="327" to="336" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of high versus low protein intake on body composition and maximal strength in aspiring female physique athletes engaging in an 8-week resistance training program</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">I</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Conlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="580" to="585" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">International society of sports nutrition position stand: Protein and exercise</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Kreider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ziegenfuss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">20</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Training volume, not frequency, indicative of maximal strength adaptations to resistance training</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Colquhoun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Gai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Aguilar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="1207" to="1213" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The effect of whey isolate and resistance training on strength, body composition, and plasma glutamine</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Cribb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hayes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="494" to="509" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sleep and muscle recovery: Endocrinological and molecular basis for a new and promising hypothesis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dattilo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hkm</forename><surname>Antunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Medeiros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Hypotheses</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="220" to="222" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Comparing DXA and air displacement plethysmography to assess body composition of male collegiate hockey players</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Delisle-Houde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rer</forename><surname>Reid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Insogna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="474" to="478" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Adipose tissue in muscle: A novel depot similar in size to visceral adipose tissue</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gallagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kuznia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heshka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="903" to="910" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Dietary intake, body composition, and menstrual cycle changes during competition preparation and recovery in a drug-free figure competitor: A case study</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Halliday</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Loenneke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Davy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutrients</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">740</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effects of graded whey supplementation during extreme-volume resistance training</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Haun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Vann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Mobley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Nutr</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">84</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A critical evaluation of the biological construct skeletal muscle hypertrophy: Size matters but so does the measurement</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Haun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Vann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Physiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">247</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Evidence-based recommendations for natural bodybuilding contest preparation: Nutrition and supplementation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aragon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">20</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Recommendations for natural bodybuilding contest preparation: Resistance and cardiovascular training</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aragon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cronin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Schoenfeld</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Med Phys Fitness</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="164" to="178" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A systematic review of dietary protein during caloric restriction in resistance trained lean athletes: A case for higher intakes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zinn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Rowlands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="127" to="138" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Testosterone action on skeletal muscle</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Herbst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bhasin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Opin Clin Nutr Metab Care</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1686" to="1691" />
+			<date type="published" when="1995">2004. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Med Sci Sports Exerc</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Physiological implications of preparing for a natural male bodybuilding competition</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hackett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EJSS</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="619" to="629" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Relationship of body fat with insulin resistance and cardiometabolic risk factors among normal glucose-tolerant subjects</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Mohan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Deepa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gokulakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Monickaraj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Postgrad Med</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page">184</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Insufficient sleep undermines dietary efforts to reduce adiposity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Nedeltcheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kilkus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Imperial</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Schoeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Penev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="435" to="441" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Effects of periodic and continued resistance training on muscle CSA and strength in previously untrained men</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ogasawara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sakamaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Physiol Funct Imaging</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="399" to="404" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Case study: Unfavorable but transient physiological changes during contest preparation in a drug-free male bodybuilder</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pardue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Sprod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="550" to="559" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Applications of the dose-response for muscular strength development: A review of meta-analytic efficacy and reliability for designing training prescription</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Rhea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Alvar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">950</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Case study: The effect of 32 Weeks of figure-contest preparation on a self-proclaimed drug-free female&apos;s lean body and bone mass</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Petrizzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Dimenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wygand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Otto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="543" to="549" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Ultrasound techniques applied to body fat measurement in male and female athletes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Pineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Filliard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bocquet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Athl Train</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="142" to="147" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Similar strength and power adaptations between two different velocity-based training regimens in collegiate female volleyball players</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Rauch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Loturco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cheesman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">163</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The effect of partial sleep deprivation on weight-lifting performance</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Piercy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ergonomics</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="107" to="115" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Nutritional recommendations for physique athletes</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Helms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Fitschen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kinet</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="79" to="108" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Psychophysiological tracking of a female physique competitor through competition preparation</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Rohrig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Pettitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Kanzenbach</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Exerc Sci</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">301</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Natural bodybuilding competition preparation and recovery: A 12-month case study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Rossow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Fukuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Fahs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Loenneke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stout</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="582" to="592" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The compatibility of concurrent high intensity interval training and resistance training for muscular strength and hypertrophy: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sabag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Najafi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Michael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2472" to="2483" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The effect of sleep restriction, with or without high-intensity interval exercise, on myofibrillar protein synthesis in healthy young men</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Saner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mj-C</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">W</forename><surname>Pitchford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">598</biblScope>
+			<biblScope unit="page" from="1523" to="1536" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ogborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Krieger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1073" to="1082" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Correlations of anthropometric and body composition variables with the performance of young elite weightlifters</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Siahkouhian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hedayatneja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kinet</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="125" to="131" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Is an energy surplus required to maximize skeletal muscle hypertrophy associated with resistance training</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Dieter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Marsh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front Nutr</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">131</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">b-hydroxy-b-methylbutyrate (HMB) supplementation does not affect changes in strength or body composition during resistance training in trained men</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Jenkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Logan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="384" to="396" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Validity and reliability of a 4-compartment body composition model using dual energy x-ray absorptiometry-derived body volume</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Smith-Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Mock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="825" to="830" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Weight loss in amateur wrestlers and its effect on serum testosterone levels</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Lanese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Malarkey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">254</biblScope>
+			<biblScope unit="page" from="3337" to="3338" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Adaptations of leptin, ghrelin or insulin during weight loss as predictors of weight regain: A review of current literature</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Strohacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Mccaffery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Maclean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Wing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Obes</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="388" to="396" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Influence of age and gender on fat mass, fat-free mass and skeletal muscle mass among Australian adults: The Australian Diabetes, Obesity and Lifestyle study (AusDiab)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Strugnell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Dunstan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Magliano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Z</forename><surname>Zimmet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Shaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Daly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nutr Health Aging</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">540</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Longitudinal development of anthropometric and physical characteristics within academy rugby league players</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Till</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Darrall-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Emmonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cooke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Cond Res</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1713" to="1722" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Body fat gain and loss differentially influence validity of dualenergy x-ray absorptiometry and multifrequency bioelectrical impedance analysis during simultaneous fat-free mass accretion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Tinsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Moore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Res</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="44" to="55" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Metabolic adaptation to weight loss: Implications for the athlete</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Trexler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Smith-Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Norton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Test-retest reliability of the bod pod: The effect of multiple assessments</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Tucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Lecheminant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Percept Mot Skills</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="563" to="570" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Influence of sleep restriction on weight loss outcomes associated with caloric restriction</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Bowyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Youngstedt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The effects of pre-and post-exercise whey vs. Casein protein consumption on body composition and performance measures in collegiate female athletes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Wilborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Outlaw</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="74" to="79" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Weight gaining through proper nutrition and exercise</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nutrition for Fitness and Sport</title>
+				<meeting><address><addrLine>Rodgers C, ed. Dubuque, IA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wm C Brown</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">304</biblScope>
+		</imprint>
+	</monogr>
+	<note>rd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Improved 4-compartment body-composition model for a clinically accessible measure of total body protein</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Strauss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Duewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Shepherd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="497" to="504" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Comparison of 2 weekly-equalized volume resistancetraining routines using different frequencies on body composition and performance in trained males</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Yue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Karsten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Larumbe-Zabala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Seijo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Naclerio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Physiol Nutr Metab</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="475" to="481" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Preseason body composition adaptations in elite white and polynesian rugby union athletes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Zemski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Keating</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Broad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metab</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="9" to="17" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title/>
+		<idno>nsca-scj.com</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Strength and Conditioning Journal | www</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
