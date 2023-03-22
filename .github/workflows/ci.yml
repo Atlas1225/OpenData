@@ -24,6 +24,7 @@ jobs:
           pip install matplotlib
           pip install pytest
           pip install lxml
+          python3 -m nltk.downloader stopwords punkt 
       - name: Test with pytest
         run: |
           pytest 
