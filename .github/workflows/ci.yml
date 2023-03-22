@@ -23,6 +23,7 @@ jobs:
           pip install wordcloud
           pip install matplotlib
           pip install pytest
+          pip install lxml
       - name: Test with pytest
         run: |
           pytest 
