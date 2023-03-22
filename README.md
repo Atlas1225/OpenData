@@ -67,6 +67,21 @@ foo@bar:~$ conda create -n opendata python=3.8 nltk wordcloud matplotlib lxml py
 
 ```
 foo@bar:~$ conda activate opendata
+
+```
+
+### Docker enviroment
+
+You need Docker before all, then type these commands:
+
+```
+foo@bar:~$ docker build -t opendata .
+
+```
+
+```
+foo@bar:~$ docker run  opendata
+
 ```
 
 ## Running Examples
