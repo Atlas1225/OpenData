@@ -53,7 +53,7 @@ def action(folderPath, folderComplPath, wcf, lolf, fpaf):
                 # word cloud from the frequency distribution
                 wordcloud = WordCloud().generate_from_frequencies(freq_dist)
 
-                # save as PNG
+                # save 
                 plt.imshow(wordcloud, interpolation='bilinear')
                 plt.axis("off")
                 plt.savefig(wcf+'/'+ filename[0:filename.find('.')] +'.png')
@@ -68,9 +68,10 @@ def action(folderPath, folderComplPath, wcf, lolf, fpaf):
                 # append the number of figures to the list
                 for i in range(num_figures_in_file):
                     num_figures.append(filename)
+
                 #create list of links
-                
                 f = open(lolf+"/"+  filename[0:filename.find('.')] +'.txt', "w")
+                
                 # find all the biblStruct elements
                 biblstructs = tree.xpath("//tei:biblStruct", namespaces=ns)
 

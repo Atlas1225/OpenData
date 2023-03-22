@@ -1,16 +1,11 @@
-# Import necessary modules
-
 import os
 import sys
 from pathlib import Path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-# Import the function to test
 from script import action
 
-# Define the test function
 def test_action():
 
-    # Call the function with test inputs
     o = 'test/test_outputs/'
     oh = 'test/test_outputs/test_header/'
     wcf = 'test/test_wordClouds'
@@ -19,7 +14,6 @@ def test_action():
 
     action(oh,o,wcf, lolf, fpaf)
 
-    # Check that the expected files were created
     assert os.path.exists(wcf)
     assert os.path.exists(lolf)
     assert os.path.exists(fpaf)

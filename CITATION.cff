@@ -1,0 +1,17 @@
+title: "OpenData: document Analyzer"
+license: MIT
+authors:
+  - family-names: LU
+    given-names: SHENGXING
+cff-version: 1.2.0
+preferred-citation:
+  authors:
+    - family-names: LU
+      given-names: SHENGXING
+  title: "OpenData: document Analyzer"
+  type: article
+  year: 2023
+identifiers:
+  - description: "Project ID"
+    type: doi
+    value: 10.5281/zenodo.7756241

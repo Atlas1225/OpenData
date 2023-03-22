@@ -83,6 +83,6 @@ If you use our code or results in your research, please cite our paper:
 @article{Opendata,
   title   = {{Opendata}},
   author  = {SHENGXING LU},
-  year    = {2022},
+  year    = {2023},
   doi     = {https://zenodo.org/badge/latestdoi/599152914}
 }
