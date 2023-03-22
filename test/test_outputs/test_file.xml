@@ -35,6 +35,9 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</encodingDesc>
 		<profileDesc>
 			<abstract>
+            <p>
+            This is a simple test
+            </p>
             </abstract>
 		</profileDesc>
 	</teiHeader>

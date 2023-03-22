@@ -1,0 +1,265 @@
+{
+    "somef_provenance": {
+        "somef_version": "0.9.3",
+        "somef_schema_version": "1.0.0",
+        "date": "2023-03-21 13:51:59"
+    },
+    "code_repository": [
+        {
+            "result": {
+                "value": "https://github.com/Atlas1225/OpenData",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "owner": [
+        {
+            "result": {
+                "value": "Atlas1225",
+                "type": "User"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "date_created": [
+        {
+            "result": {
+                "value": "2023-02-08T15:05:24Z",
+                "type": "Date"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "date_updated": [
+        {
+            "result": {
+                "value": "2023-03-21T12:14:23Z",
+                "type": "Date"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "license": [
+        {
+            "result": {
+                "value": "https://api.github.com/licenses/mit",
+                "type": "License",
+                "name": "MIT License",
+                "url": "https://api.github.com/licenses/mit",
+                "spdx_id": "MIT"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        },
+        {
+            "result": {
+                "value": "MIT License\n\nCopyright (c) 2023 Atlas1225\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n",
+                "type": "File_dump"
+            },
+            "confidence": 1,
+            "technique": "file_exploration",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/license"
+        }
+    ],
+    "name": [
+        {
+            "result": {
+                "value": "OpenData",
+                "type": "String"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "full_name": [
+        {
+            "result": {
+                "value": "Atlas1225/OpenData",
+                "type": "String"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "issue_tracker": [
+        {
+            "result": {
+                "value": "https://api.github.com/repos/Atlas1225/OpenData/issues",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "forks_url": [
+        {
+            "result": {
+                "value": "https://api.github.com/repos/Atlas1225/OpenData/forks",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "stargazers_count": [
+        {
+            "result": {
+                "value": 0,
+                "type": "Number"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "keywords": [
+        {
+            "result": {
+                "value": "",
+                "type": "String"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "forks_count": [
+        {
+            "result": {
+                "value": 0,
+                "type": "Number"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "download_url": [
+        {
+            "result": {
+                "value": "https://github.com/Atlas1225/OpenData/releases",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "programming_languages": [
+        {
+            "result": {
+                "value": "Python",
+                "name": "Python",
+                "type": "Programming_language",
+                "size": 2785
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "releases": [
+        {
+            "result": {
+                "type": "Release",
+                "value": "https://api.github.com/repos/Atlas1225/OpenData/releases/96335166",
+                "tag": "1.0",
+                "name": "Start",
+                "author": {
+                    "name": "Atlas1225",
+                    "type": "User"
+                },
+                "description": "This application shows the number of figures per article, wordcloud of the abstract of each article and a list of bibliography.",
+                "tarball_url": "https://api.github.com/repos/Atlas1225/OpenData/tarball/1.0",
+                "zipball_url": "https://api.github.com/repos/Atlas1225/OpenData/zipball/1.0",
+                "html_url": "https://github.com/Atlas1225/OpenData/releases/tag/1.0",
+                "url": "https://api.github.com/repos/Atlas1225/OpenData/releases/96335166",
+                "release_id": 96335166,
+                "date_created": "2023-03-21T11:37:00Z",
+                "date_published": "2023-03-21T12:19:04Z"
+            },
+            "confidence": 1,
+            "technique": "GitHub_API"
+        }
+    ],
+    "readme_url": [
+        {
+            "result": {
+                "value": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "file_exploration"
+        }
+    ],
+    "documentation": [
+        {
+            "result": {
+                "value": "https://github.com/Atlas1225/OpenData/tree/main/docs",
+                "type": "Url"
+            },
+            "confidence": 1,
+            "technique": "file_exploration"
+        },
+        {
+            "result": {
+                "value": "Command for running the sript is \n```\npython3 script.py\n```\n\nIf you want to try this script, it is necessary to generate a grobid xml main and header file and put it in the corresponding folder. (It will be mentioned during `Grobid generation` section).\n",
+                "type": "Text_excerpt",
+                "original_header": "Documentation",
+                "parent_header": [
+                    "OpenData"
+                ]
+            },
+            "confidence": 1,
+            "technique": "header_analysis",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md"
+        }
+    ],
+    "description": [
+        {
+            "result": {
+                "type": "Text_excerpt",
+                "value": "The way I generated the grobid xml files is using [grobid_client](https://github.com/kermitt2/grobid_client_python) repository with [grobid server](https://github.com/kermitt2/grobid) run previously. \n",
+                "original_header": "Grobid generation"
+            },
+            "confidence": 0.9523897955151016,
+            "technique": "supervised_classification",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md"
+        }
+    ],
+    "installation": [
+        {
+            "result": {
+                "type": "Text_excerpt",
+                "value": "Firstly you must install [Anaconda](https://docs.conda.io/en/latest/miniconda.html#linux-installers) and then use these commands:\n```\nfoo@bar:~$ conda config --add channels conda-forge    \n```\n \n```\nfoo@bar:~$ conda create -n opendata python=3.8 nltk wordcloud matplotlib lxml pytest\n```\n```\nfoo@bar:~$ conda activate opendata\n```\n \n",
+                "original_header": "Anaconda enviroment"
+            },
+            "confidence": 0.9684179672268454,
+            "technique": "supervised_classification",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md"
+        }
+    ],
+    "invocation": [
+        {
+            "result": {
+                "type": "Text_excerpt",
+                "value": "and then:\n```\nfoo@bar:~$ ./gradlew run   \n```\n \n",
+                "original_header": "Grobid generation"
+            },
+            "confidence": 0.8824381363846003,
+            "technique": "supervised_classification",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md"
+        }
+    ],
+    "full_title": [
+        {
+            "result": {
+                "type": "String",
+                "value": "OpenData"
+            },
+            "confidence": 1,
+            "technique": "regular_expression",
+            "source": "https://raw.githubusercontent.com/Atlas1225/OpenData/main/README.md"
+        }
+    ]
+}

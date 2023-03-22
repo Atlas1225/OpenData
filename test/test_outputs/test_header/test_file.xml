@@ -27,7 +27,7 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</fileDesc>
 		<encodingDesc>
 			<appInfo>
-				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T11:37+0000">
+				<application version="0.7.3-SNAPSHOT" ident="GROBID" when="2023-03-15T12:18+0000">
 					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
 					<ref target="https://github.com/kermitt2/grobid"/>
 				</application>
@@ -35,16 +35,12 @@ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.co
 		</encodingDesc>
 		<profileDesc>
 			<abstract>
+            <p>
+            This is a simple test
+            </p>
             </abstract>
 		</profileDesc>
 	</teiHeader>
 	<text>
-		<body/>
-		<back>
-			<div type="references">
-
-				<listBibl/>
-			</div>
-		</back>
 	</text>
 </TEI>
