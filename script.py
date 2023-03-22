@@ -10,6 +10,17 @@ from lxml import etree
 
 def action(folderPath, folderComplPath, wcf, lolf, fpaf):
         
+        if not os.path.exists(folderPath):
+            os.makedirs(folderPath)
+        if not os.path.exists(folderComplPath):
+            os.makedirs(folderComplPath)
+        if not os.path.exists(wcf):
+            os.makedirs(wcf)
+        if not os.path.exists(lolf):
+            os.makedirs(lolf)
+        if not os.path.exists(fpaf):
+            os.makedirs(fpaf)
+
         num_figures = []
         global stop_words
         stop_words = set(stopwords.words('english'))
